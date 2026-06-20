@@ -2,8 +2,8 @@ name: Sync suspect plates
 
 on:
   schedule:
-    # Daily, 30 min after typical importer sync (04:00 UTC)
-    - cron: "30 4 * * *"
+    - cron: "0 11 * * *"
+      timezone: Europe/Amsterdam
   workflow_dispatch:
 
 permissions:
