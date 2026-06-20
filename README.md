@@ -21,29 +21,26 @@ Per kenteken:
 
 | Veld | Beschrijving |
 | --- | --- |
-| `kenteken` | Kenteken zoals in de RDW-bron (soms mét streepjes) |
-| `kenteken_norm` | Zelfde kenteken genormaliseerd: hoofdletters, zonder streepjes of spaties — de vorm die ScanKenteken voor opzoeken gebruikt |
+| `kenteken_norm` | Kenteken (hoofdletters, zonder streepjes) |
 | `brand` / `model` | Merk en model |
 | `score` | Verdachtheidsscore (lager = sterker signaal) |
-| `flags` | Interne codes voor het type afwijking (zie hieronder) |
+| `flags` | Type afwijking (zie hieronder) |
 | `catalog_price` | Catalogusprijs uit de RDW-data (euro) |
-
-`kenteken` en `kenteken_norm` zijn in de meeste records identiek; ze lopen uiteen wanneer de RDW het kenteken met streepjes opslaat (bijv. `12-AB-34` → `12AB34`).
 
 ## Afwijkingstypes (`flags`)
 
-De codes in de JSON zijn technische interna uit de data-kwaliteitscheck. In het kort:
-
-| Code | Wat het betekent |
+| Vlag | Betekenis |
 | --- | --- |
-| `price_typo` | Catalogusprijs sterk afwijkend t.o.v. hetzelfde merk+model, terwijl massa normaal is — typisch een extra cijfer in de prijs |
-| `bpm_too_low` | BPM extreem laag t.o.v. catalogusprijs (placeholder-waarde) |
-| `displacement` | Cilinderinhoud buiten realistische grenzen |
-| `cc_per_cyl` | Cilinderinhoud per cilinder ongebruikelijk |
-| `vmax` | Topsnelheid buiten realistische grenzen |
-| `mass_implausible` | Leeg gewicht buiten realistische grenzen |
+| `catalogusprijs_afwijkend` | Catalogusprijs sterk afwijkend t.o.v. hetzelfde merk+model, terwijl massa normaal is — typisch een extra cijfer in de prijs |
+| `catalogusprijs_matig_afwijkend` | Catalogusprijs matig afwijkend *(komt zelden in export: score te hoog)* |
+| `bpm_te_laag` | BPM extreem laag t.o.v. catalogusprijs (placeholder-waarde) |
+| `cilinderinhoud` | Cilinderinhoud buiten realistische grenzen |
+| `cilinderinhoud_per_cilinder` | Cilinderinhoud per cilinder ongebruikelijk |
+| `topsnelheid` | Topsnelheid buiten realistische grenzen |
+| `massa` | Leeg gewicht buiten realistische grenzen |
+| `massa_volgorde` | Onmogelijke massa-volgorde (ledig > rijklaar) |
 
-Niet elke check komt in deze lijst terecht. Alleen combinaties met een lage score (< `threshold`). Zachtere signalen — zoals een matig hoge prijs zonder bevestiging — worden wel gescoord maar niet geëxporteerd.
+Niet elke check komt in deze lijst terecht. Alleen combinaties met een lage score (< `threshold`). Zachtere signalen worden wel gescoord maar niet geëxporteerd.
 
 ## ScanKenteken
 
