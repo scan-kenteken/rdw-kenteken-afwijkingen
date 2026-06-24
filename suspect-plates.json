@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-23T09:37:56Z",
+  "generated_at": "2026-06-24T09:04:22Z",
   "threshold": 0.3,
-  "count": 2738,
+  "count": 2734,
   "plates": [
     {
       "kenteken_norm": "ZN796H",
@@ -709,17 +709,6 @@
       "catalog_price": 238533
     },
     {
-      "kenteken_norm": "H987KB",
-      "brand": "Porsche",
-      "model": "Cayenne",
-      "score": 0.09,
-      "flags": [
-        "catalogusprijs_afwijkend",
-        "bpm_te_laag"
-      ],
-      "catalog_price": 9032688
-    },
-    {
       "kenteken_norm": "HBH13S",
       "brand": "Suzuki",
       "model": "Across",
@@ -894,17 +883,6 @@
         "bpm_te_laag"
       ],
       "catalog_price": 193107
-    },
-    {
-      "kenteken_norm": "HHS22L",
-      "brand": "Volvo",
-      "model": "Xc40",
-      "score": 0.09,
-      "flags": [
-        "catalogusprijs_afwijkend",
-        "bpm_te_laag"
-      ],
-      "catalog_price": 4749811
     },
     {
       "kenteken_norm": "HHZ09S",
@@ -1103,17 +1081,6 @@
         "bpm_te_laag"
       ],
       "catalog_price": 181123
-    },
-    {
-      "kenteken_norm": "HKF98F",
-      "brand": "Volvo",
-      "model": "Xc40",
-      "score": 0.09,
-      "flags": [
-        "catalogusprijs_afwijkend",
-        "bpm_te_laag"
-      ],
-      "catalog_price": 4736430
     },
     {
       "kenteken_norm": "HKH23L",
@@ -11074,16 +11041,6 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 185778
-    },
-    {
-      "kenteken_norm": "HPB96N",
-      "brand": "Toyota",
-      "model": "Bz4x",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 2999580
     },
     {
       "kenteken_norm": "HPD03B",
