@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-24T09:04:22Z",
+  "generated_at": "2026-06-25T09:07:21Z",
   "threshold": 0.3,
-  "count": 2734,
+  "count": 2735,
   "plates": [
     {
       "kenteken_norm": "ZN796H",
@@ -115,6 +115,17 @@
       "catalog_price": 25557
     },
     {
+      "kenteken_norm": "KNN93P",
+      "brand": "Mazda",
+      "model": "Mx-30",
+      "score": 0.03,
+      "flags": [
+        "cilinderinhoud_per_cilinder",
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 238086
+    },
+    {
       "kenteken_norm": "L027BL",
       "brand": "Jaguar",
       "model": "F-Type",
@@ -146,6 +157,17 @@
         "cilinderinhoud_per_cilinder"
       ],
       "catalog_price": 71223
+    },
+    {
+      "kenteken_norm": "P566KS",
+      "brand": "Volvo",
+      "model": "S60",
+      "score": 0.03,
+      "flags": [
+        "cilinderinhoud",
+        "cilinderinhoud_per_cilinder"
+      ],
+      "catalog_price": 78258
     },
     {
       "kenteken_norm": "R164ZF",
@@ -2084,17 +2106,6 @@
       "catalog_price": 183015
     },
     {
-      "kenteken_norm": "HTV76L",
-      "brand": "Volvo",
-      "model": "V60",
-      "score": 0.09,
-      "flags": [
-        "catalogusprijs_afwijkend",
-        "bpm_te_laag"
-      ],
-      "catalog_price": 5823109
-    },
-    {
       "kenteken_norm": "HTZ89V",
       "brand": "Ford",
       "model": "Fiesta",
@@ -2678,17 +2689,6 @@
       "catalog_price": 6410996
     },
     {
-      "kenteken_norm": "JBB05N",
-      "brand": "Toyota",
-      "model": "C-Hr",
-      "score": 0.09,
-      "flags": [
-        "catalogusprijs_afwijkend",
-        "bpm_te_laag"
-      ],
-      "catalog_price": 2147893
-    },
-    {
       "kenteken_norm": "JBB80Z",
       "brand": "Peugeot",
       "model": "2008",
@@ -3116,17 +3116,6 @@
         "bpm_te_laag"
       ],
       "catalog_price": 225184
-    },
-    {
-      "kenteken_norm": "JGT99V",
-      "brand": "Volvo",
-      "model": "Xc40",
-      "score": 0.09,
-      "flags": [
-        "catalogusprijs_afwijkend",
-        "bpm_te_laag"
-      ],
-      "catalog_price": 3661915
     },
     {
       "kenteken_norm": "JHD71N",
@@ -23631,6 +23620,26 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 188637
+    },
+    {
+      "kenteken_norm": "KNL03T",
+      "brand": "Ford",
+      "model": "Focus",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 190655
+    },
+    {
+      "kenteken_norm": "KNL53X",
+      "brand": "Audi",
+      "model": "A3",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 191265
     },
     {
       "kenteken_norm": "KR546J",
