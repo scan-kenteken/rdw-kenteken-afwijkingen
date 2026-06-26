@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-25T09:07:21Z",
+  "generated_at": "2026-06-26T09:22:47Z",
   "threshold": 0.3,
-  "count": 2735,
+  "count": 2736,
   "plates": [
     {
       "kenteken_norm": "ZN796H",
@@ -3756,17 +3756,6 @@
       "catalog_price": 455139
     },
     {
-      "kenteken_norm": "JRB10L",
-      "brand": "Fiat",
-      "model": "500",
-      "score": 0.09,
-      "flags": [
-        "catalogusprijs_afwijkend",
-        "bpm_te_laag"
-      ],
-      "catalog_price": 181412
-    },
-    {
       "kenteken_norm": "JRG68G",
       "brand": "Peugeot",
       "model": "208",
@@ -5767,6 +5756,17 @@
         "bpm_te_laag"
       ],
       "catalog_price": 9689076
+    },
+    {
+      "kenteken_norm": "KNR27L",
+      "brand": "Opel",
+      "model": "Astra",
+      "score": 0.09,
+      "flags": [
+        "catalogusprijs_afwijkend",
+        "bpm_te_laag"
+      ],
+      "catalog_price": 2997080
     },
     {
       "kenteken_norm": "KS395F",
@@ -23640,6 +23640,16 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 191265
+    },
+    {
+      "kenteken_norm": "KNP02L",
+      "brand": "Volkswagen",
+      "model": "Up",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 119635
     },
     {
       "kenteken_norm": "KR546J",
