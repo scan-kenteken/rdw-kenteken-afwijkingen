@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-27T08:47:57Z",
+  "generated_at": "2026-06-28T09:32:49Z",
   "threshold": 0.3,
-  "count": 2736,
+  "count": 2743,
   "plates": [
     {
       "kenteken_norm": "ZN796H",
@@ -751,17 +751,6 @@
         "bpm_te_laag"
       ],
       "catalog_price": 188189
-    },
-    {
-      "kenteken_norm": "HBV69L",
-      "brand": "Cupra",
-      "model": "Formentor",
-      "score": 0.09,
-      "flags": [
-        "catalogusprijs_afwijkend",
-        "bpm_te_laag"
-      ],
-      "catalog_price": 540033
     },
     {
       "kenteken_norm": "HBX84H",
@@ -3226,17 +3215,6 @@
         "bpm_te_laag"
       ],
       "catalog_price": 180304
-    },
-    {
-      "kenteken_norm": "JHX74N",
-      "brand": "Toyota",
-      "model": "Yaris",
-      "score": 0.09,
-      "flags": [
-        "catalogusprijs_afwijkend",
-        "bpm_te_laag"
-      ],
-      "catalog_price": 1978695
     },
     {
       "kenteken_norm": "JJF01S",
@@ -5767,6 +5745,39 @@
         "bpm_te_laag"
       ],
       "catalog_price": 2997080
+    },
+    {
+      "kenteken_norm": "KNS30N",
+      "brand": "Peugeot",
+      "model": "208",
+      "score": 0.09,
+      "flags": [
+        "catalogusprijs_afwijkend",
+        "bpm_te_laag"
+      ],
+      "catalog_price": 186165
+    },
+    {
+      "kenteken_norm": "KNT76X",
+      "brand": "Toyota",
+      "model": "Aygo",
+      "score": 0.09,
+      "flags": [
+        "catalogusprijs_afwijkend",
+        "bpm_te_laag"
+      ],
+      "catalog_price": 183338
+    },
+    {
+      "kenteken_norm": "KNT87P",
+      "brand": "Hyundai",
+      "model": "I10",
+      "score": 0.09,
+      "flags": [
+        "catalogusprijs_afwijkend",
+        "bpm_te_laag"
+      ],
+      "catalog_price": 172845
     },
     {
       "kenteken_norm": "KS395F",
@@ -20672,16 +20683,6 @@
       "catalog_price": 192986
     },
     {
-      "kenteken_norm": "K759NJ",
-      "brand": "Alfa Romeo",
-      "model": "Stelvio",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 562214
-    },
-    {
       "kenteken_norm": "K764RF",
       "brand": "Roller Team",
       "model": "T-Line",
@@ -23650,6 +23651,76 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 119635
+    },
+    {
+      "kenteken_norm": "KNT07X",
+      "brand": "Ford",
+      "model": "Fiesta",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 177823
+    },
+    {
+      "kenteken_norm": "KNT38R",
+      "brand": "Volkswagen",
+      "model": "Golf",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 196086
+    },
+    {
+      "kenteken_norm": "KNT49Z",
+      "brand": "Kia",
+      "model": "Rio",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 182558
+    },
+    {
+      "kenteken_norm": "KNT67V",
+      "brand": "Seat",
+      "model": "Ateca",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 197184
+    },
+    {
+      "kenteken_norm": "KNT85P",
+      "brand": "Opel",
+      "model": "Adam",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 180365
+    },
+    {
+      "kenteken_norm": "KNV61H",
+      "brand": "Renault",
+      "model": "Megane",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 195381
+    },
+    {
+      "kenteken_norm": "KNV83G",
+      "brand": "Toyota",
+      "model": "C-Hr",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 201265
     },
     {
       "kenteken_norm": "KR546J",
