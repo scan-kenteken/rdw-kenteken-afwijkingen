@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-28T09:32:49Z",
+  "generated_at": "2026-06-29T09:06:05Z",
   "threshold": 0.3,
-  "count": 2743,
+  "count": 2744,
   "plates": [
     {
       "kenteken_norm": "ZN796H",
@@ -23711,6 +23711,16 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 195381
+    },
+    {
+      "kenteken_norm": "KNV62K",
+      "brand": "Renault",
+      "model": "Clio",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 183736
     },
     {
       "kenteken_norm": "KNV83G",
