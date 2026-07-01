@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-30T10:05:49Z",
+  "generated_at": "2026-07-01T07:43:15Z",
   "threshold": 0.3,
-  "count": 2744,
+  "count": 2740,
   "plates": [
     {
       "kenteken_norm": "ZN796H",
@@ -5824,17 +5824,6 @@
       "catalog_price": 172613
     },
     {
-      "kenteken_norm": "L304ZB",
-      "brand": "Toyota",
-      "model": "Aygo",
-      "score": 0.09,
-      "flags": [
-        "catalogusprijs_afwijkend",
-        "bpm_te_laag"
-      ],
-      "catalog_price": 1193253
-    },
-    {
       "kenteken_norm": "L355GG",
       "brand": "Nissan",
       "model": "Micra",
@@ -5899,17 +5888,6 @@
         "bpm_te_laag"
       ],
       "catalog_price": 341386
-    },
-    {
-      "kenteken_norm": "N037LK",
-      "brand": "Volvo",
-      "model": "Xc90",
-      "score": 0.09,
-      "flags": [
-        "catalogusprijs_afwijkend",
-        "bpm_te_laag"
-      ],
-      "catalog_price": 806495
     },
     {
       "kenteken_norm": "N170FG",
@@ -6152,17 +6130,6 @@
         "bpm_te_laag"
       ],
       "catalog_price": 111407
-    },
-    {
-      "kenteken_norm": "S767LG",
-      "brand": "Toyota",
-      "model": "Rav4",
-      "score": 0.09,
-      "flags": [
-        "catalogusprijs_afwijkend",
-        "bpm_te_laag"
-      ],
-      "catalog_price": 508360
     },
     {
       "kenteken_norm": "T046NR",
@@ -23623,6 +23590,16 @@
       "catalog_price": 188637
     },
     {
+      "kenteken_norm": "KNK79P",
+      "brand": "Jeep",
+      "model": "Renegade",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 184535
+    },
+    {
       "kenteken_norm": "KNL03T",
       "brand": "Ford",
       "model": "Focus",
@@ -23723,6 +23700,16 @@
       "catalog_price": 183736
     },
     {
+      "kenteken_norm": "KNV73X",
+      "brand": "Peugeot",
+      "model": "108",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 173367
+    },
+    {
       "kenteken_norm": "KNV83G",
       "brand": "Toyota",
       "model": "C-Hr",
@@ -23731,6 +23718,16 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 201265
+    },
+    {
+      "kenteken_norm": "KNX61T",
+      "brand": "Toyota",
+      "model": "Yaris",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 189782
     },
     {
       "kenteken_norm": "KR546J",
@@ -23771,16 +23768,6 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 202856
-    },
-    {
-      "kenteken_norm": "L016KZ",
-      "brand": "Volvo",
-      "model": "Xc60",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 764570
     },
     {
       "kenteken_norm": "L090VV",
@@ -24493,16 +24480,6 @@
       "catalog_price": 183153
     },
     {
-      "kenteken_norm": "N754TF",
-      "brand": "Volvo",
-      "model": "Xc40",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 525660
-    },
-    {
       "kenteken_norm": "N770TS",
       "brand": "Hyundai",
       "model": "Ioniq5",
@@ -24591,16 +24568,6 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 275684
-    },
-    {
-      "kenteken_norm": "NK291J",
-      "brand": "Volvo",
-      "model": "Xc90",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 757264
     },
     {
       "kenteken_norm": "NN213J",
@@ -25601,16 +25568,6 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 84520
-    },
-    {
-      "kenteken_norm": "RX615S",
-      "brand": "Volvo",
-      "model": "V90",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 690920
     },
     {
       "kenteken_norm": "RZ757G",
