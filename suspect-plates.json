@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-01T07:43:15Z",
+  "generated_at": "2026-07-02T09:45:31Z",
   "threshold": 0.3,
-  "count": 2740,
+  "count": 2733,
   "plates": [
     {
       "kenteken_norm": "ZN796H",
@@ -861,17 +861,6 @@
         "bpm_te_laag"
       ],
       "catalog_price": 2146320
-    },
-    {
-      "kenteken_norm": "HGZ41X",
-      "brand": "Bmw",
-      "model": "i3",
-      "score": 0.09,
-      "flags": [
-        "catalogusprijs_afwijkend",
-        "bpm_te_laag"
-      ],
-      "catalog_price": 236458
     },
     {
       "kenteken_norm": "HHH62Z",
@@ -2434,17 +2423,6 @@
         "bpm_te_laag"
       ],
       "catalog_price": 245354
-    },
-    {
-      "kenteken_norm": "HXT09N",
-      "brand": "Cupra",
-      "model": "Formentor",
-      "score": 0.09,
-      "flags": [
-        "catalogusprijs_afwijkend",
-        "bpm_te_laag"
-      ],
-      "catalog_price": 5403118
     },
     {
       "kenteken_norm": "HXT66K",
@@ -5912,17 +5890,6 @@
       "catalog_price": 390000
     },
     {
-      "kenteken_norm": "N389ZK",
-      "brand": "Citroen",
-      "model": "C4",
-      "score": 0.09,
-      "flags": [
-        "catalogusprijs_afwijkend",
-        "bpm_te_laag"
-      ],
-      "catalog_price": 3121729
-    },
-    {
       "kenteken_norm": "N420JK",
       "brand": "Volkswagen",
       "model": "Golf",
@@ -6009,17 +5976,6 @@
         "bpm_te_laag"
       ],
       "catalog_price": 1080913
-    },
-    {
-      "kenteken_norm": "P355GG",
-      "brand": "Opel",
-      "model": "Grandland",
-      "score": 0.09,
-      "flags": [
-        "catalogusprijs_afwijkend",
-        "bpm_te_laag"
-      ],
-      "catalog_price": 521104
     },
     {
       "kenteken_norm": "R167XB",
@@ -15930,16 +15886,6 @@
       "catalog_price": 180740
     },
     {
-      "kenteken_norm": "JGD13F",
-      "brand": "Honda",
-      "model": "E",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 4658500
-    },
-    {
       "kenteken_norm": "JGD17D",
       "brand": "Seat",
       "model": "Ibiza",
@@ -23520,6 +23466,16 @@
       "catalog_price": 189171
     },
     {
+      "kenteken_norm": "KNB53J",
+      "brand": "Ford",
+      "model": "Fiesta",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 179025
+    },
+    {
       "kenteken_norm": "KND18L",
       "brand": "Kia",
       "model": "Ceed",
@@ -24390,16 +24346,6 @@
       "catalog_price": 176518
     },
     {
-      "kenteken_norm": "N526JB",
-      "brand": "Mazda",
-      "model": "3",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 3062423
-    },
-    {
       "kenteken_norm": "N547GL",
       "brand": "Opel",
       "model": "Corsa",
@@ -24930,16 +24876,6 @@
       "catalog_price": 383115
     },
     {
-      "kenteken_norm": "P677ZH",
-      "brand": "Ford",
-      "model": "Mustang",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 627421
-    },
-    {
       "kenteken_norm": "P722KD",
       "brand": "Suzuki",
       "model": "Vitara",
@@ -25118,16 +25054,6 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 191432
-    },
-    {
-      "kenteken_norm": "R088VL",
-      "brand": "Dacia",
-      "model": "Lodgy",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 1306722
     },
     {
       "kenteken_norm": "R090TS",
