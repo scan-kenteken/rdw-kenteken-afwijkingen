@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-03T09:02:24Z",
+  "generated_at": "2026-07-04T09:04:34Z",
   "threshold": 0.3,
-  "count": 2733,
+  "count": 2740,
   "plates": [
     {
       "kenteken_norm": "ZN796H",
@@ -5758,6 +5758,39 @@
       "catalog_price": 172845
     },
     {
+      "kenteken_norm": "KPF14B",
+      "brand": "Bmw",
+      "model": "X5",
+      "score": 0.09,
+      "flags": [
+        "catalogusprijs_afwijkend",
+        "bpm_te_laag"
+      ],
+      "catalog_price": 955633
+    },
+    {
+      "kenteken_norm": "KPG96L",
+      "brand": "Volkswagen",
+      "model": "Polo",
+      "score": 0.09,
+      "flags": [
+        "catalogusprijs_afwijkend",
+        "bpm_te_laag"
+      ],
+      "catalog_price": 240651
+    },
+    {
+      "kenteken_norm": "KPH51S",
+      "brand": "Opel",
+      "model": "Astra",
+      "score": 0.09,
+      "flags": [
+        "catalogusprijs_afwijkend",
+        "bpm_te_laag"
+      ],
+      "catalog_price": 183304
+    },
+    {
       "kenteken_norm": "KS395F",
       "brand": "Toyota",
       "model": "Auris",
@@ -6374,17 +6407,6 @@
       "catalog_price": 493810
     },
     {
-      "kenteken_norm": "X438VD",
-      "brand": "Hyundai",
-      "model": "I20",
-      "score": 0.09,
-      "flags": [
-        "catalogusprijs_afwijkend",
-        "bpm_te_laag"
-      ],
-      "catalog_price": 2372286
-    },
-    {
       "kenteken_norm": "X453GR",
       "brand": "Volkswagen",
       "model": "Golf",
@@ -6394,17 +6416,6 @@
         "bpm_te_laag"
       ],
       "catalog_price": 424956
-    },
-    {
-      "kenteken_norm": "X510NF",
-      "brand": "Toyota",
-      "model": "Yaris",
-      "score": 0.09,
-      "flags": [
-        "catalogusprijs_afwijkend",
-        "bpm_te_laag"
-      ],
-      "catalog_price": 2645044
     },
     {
       "kenteken_norm": "X551KN",
@@ -6460,17 +6471,6 @@
         "bpm_te_laag"
       ],
       "catalog_price": 180420
-    },
-    {
-      "kenteken_norm": "X857KR",
-      "brand": "Bmw",
-      "model": "X3",
-      "score": 0.09,
-      "flags": [
-        "catalogusprijs_afwijkend",
-        "bpm_te_laag"
-      ],
-      "catalog_price": 5893640
     },
     {
       "kenteken_norm": "X920DL",
@@ -23056,16 +23056,6 @@
       "catalog_price": 198145
     },
     {
-      "kenteken_norm": "KKD05Z",
-      "brand": "Volkswagen",
-      "model": "Polo",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 186552
-    },
-    {
       "kenteken_norm": "KKD10D",
       "brand": "Citroen",
       "model": "C4",
@@ -23684,6 +23674,96 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 189782
+    },
+    {
+      "kenteken_norm": "KPD70F",
+      "brand": "Volkswagen",
+      "model": "Polo",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 185799
+    },
+    {
+      "kenteken_norm": "KPF22R",
+      "brand": "Ford",
+      "model": "Focus",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 191213
+    },
+    {
+      "kenteken_norm": "KPF86V",
+      "brand": "Opel",
+      "model": "Crossland",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 189448
+    },
+    {
+      "kenteken_norm": "KPG13N",
+      "brand": "Toyota",
+      "model": "Aygo",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 175581
+    },
+    {
+      "kenteken_norm": "KPG19X",
+      "brand": "Mitsubishi",
+      "model": "Space Star",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 186072
+    },
+    {
+      "kenteken_norm": "KPG78K",
+      "brand": "Mazda",
+      "model": "Mx-5",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 194248
+    },
+    {
+      "kenteken_norm": "KPG90L",
+      "brand": "Renault",
+      "model": "Arkana",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 234775
+    },
+    {
+      "kenteken_norm": "KPH10H",
+      "brand": "Volkswagen",
+      "model": "Golf",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 188810
+    },
+    {
+      "kenteken_norm": "KPH68T",
+      "brand": "Ford",
+      "model": "Puma",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 193892
     },
     {
       "kenteken_norm": "KR546J",
@@ -27174,16 +27254,6 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 192170
-    },
-    {
-      "kenteken_norm": "Z077PN",
-      "brand": "Bentley",
-      "model": "Bentayga",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 2851293
     },
     {
       "kenteken_norm": "Z094PJ",
