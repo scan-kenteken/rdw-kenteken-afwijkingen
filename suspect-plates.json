@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-06T09:20:37Z",
+  "generated_at": "2026-07-07T09:18:09Z",
   "threshold": 0.3,
-  "count": 2740,
+  "count": 2741,
   "plates": [
     {
       "kenteken_norm": "ZN796H",
@@ -14966,16 +14966,6 @@
       "catalog_price": 194391
     },
     {
-      "kenteken_norm": "JBR84V",
-      "brand": "Volkswagen",
-      "model": "T-Roc",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 193038
-    },
-    {
       "kenteken_norm": "JBR95J",
       "brand": "Mercedes-Benz",
       "model": "A-Klasse",
@@ -18666,16 +18656,6 @@
       "catalog_price": 175511
     },
     {
-      "kenteken_norm": "JTP13R",
-      "brand": "Volkswagen",
-      "model": "T-Roc",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 193055
-    },
-    {
       "kenteken_norm": "JTP68V",
       "brand": "Seat",
       "model": "Ateca",
@@ -19334,16 +19314,6 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 182401
-    },
-    {
-      "kenteken_norm": "JVV97R",
-      "brand": "Volkswagen",
-      "model": "Golf",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 165531
     },
     {
       "kenteken_norm": "JVX01S",
@@ -23456,6 +23426,16 @@
       "catalog_price": 189171
     },
     {
+      "kenteken_norm": "KNB47J",
+      "brand": "Toyota",
+      "model": "C-Hr",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 205645
+    },
+    {
       "kenteken_norm": "KNB53J",
       "brand": "Ford",
       "model": "Fiesta",
@@ -23764,6 +23744,36 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 193892
+    },
+    {
+      "kenteken_norm": "KPJ13J",
+      "brand": "Ford",
+      "model": "Fiesta",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 176202
+    },
+    {
+      "kenteken_norm": "KPJ35J",
+      "brand": "Suzuki",
+      "model": "Vitara",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 185935
+    },
+    {
+      "kenteken_norm": "KPK63L",
+      "brand": "Volkswagen",
+      "model": "Polo",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 179625
     },
     {
       "kenteken_norm": "KR546J",
