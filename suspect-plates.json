@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-09T07:03:38Z",
+  "generated_at": "2026-07-10T09:15:32Z",
   "threshold": 0.3,
-  "count": 2741,
+  "count": 2753,
   "plates": [
     {
       "kenteken_norm": "ZN796H",
@@ -751,17 +751,6 @@
         "bpm_te_laag"
       ],
       "catalog_price": 188189
-    },
-    {
-      "kenteken_norm": "HBX84H",
-      "brand": "Audi",
-      "model": "Q8",
-      "score": 0.09,
-      "flags": [
-        "catalogusprijs_afwijkend",
-        "bpm_te_laag"
-      ],
-      "catalog_price": 1079339
     },
     {
       "kenteken_norm": "HBZ36S",
@@ -5789,6 +5778,28 @@
         "bpm_te_laag"
       ],
       "catalog_price": 183304
+    },
+    {
+      "kenteken_norm": "KPP09B",
+      "brand": "Audi",
+      "model": "Q5",
+      "score": 0.09,
+      "flags": [
+        "catalogusprijs_afwijkend",
+        "bpm_te_laag"
+      ],
+      "catalog_price": 697405
+    },
+    {
+      "kenteken_norm": "KPP88P",
+      "brand": "Ford",
+      "model": "Fiesta",
+      "score": 0.09,
+      "flags": [
+        "catalogusprijs_afwijkend",
+        "bpm_te_laag"
+      ],
+      "catalog_price": 180511
     },
     {
       "kenteken_norm": "KS395F",
@@ -23706,6 +23717,26 @@
       "catalog_price": 186072
     },
     {
+      "kenteken_norm": "KPG46J",
+      "brand": "Volkswagen",
+      "model": "Up",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 186318
+    },
+    {
+      "kenteken_norm": "KPG47J",
+      "brand": "Dacia",
+      "model": "Duster",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 166178
+    },
+    {
       "kenteken_norm": "KPG78K",
       "brand": "Mazda",
       "model": "Mx-5",
@@ -23774,6 +23805,96 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 179625
+    },
+    {
+      "kenteken_norm": "KPL14K",
+      "brand": "Citroen",
+      "model": "C5",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 293059
+    },
+    {
+      "kenteken_norm": "KPN36N",
+      "brand": "Toyota",
+      "model": "Prius",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 195865
+    },
+    {
+      "kenteken_norm": "KPN65R",
+      "brand": "Renault",
+      "model": "Captur",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 131111
+    },
+    {
+      "kenteken_norm": "KPN84D",
+      "brand": "Hyundai",
+      "model": "I30",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 184347
+    },
+    {
+      "kenteken_norm": "KPN94B",
+      "brand": "Citroen",
+      "model": "C1",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 173007
+    },
+    {
+      "kenteken_norm": "KPN95V",
+      "brand": "Volkswagen",
+      "model": "Caddy",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 187722
+    },
+    {
+      "kenteken_norm": "KPN98S",
+      "brand": "Volkswagen",
+      "model": "T-Cross",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 187492
+    },
+    {
+      "kenteken_norm": "KPP02R",
+      "brand": "Ford",
+      "model": "Focus",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 186724
+    },
+    {
+      "kenteken_norm": "KPP91T",
+      "brand": "Opel",
+      "model": "Corsa",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 183741
     },
     {
       "kenteken_norm": "KR546J",
