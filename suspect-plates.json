@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-10T09:15:32Z",
+  "generated_at": "2026-07-11T09:03:34Z",
   "threshold": 0.3,
-  "count": 2753,
+  "count": 2751,
   "plates": [
     {
       "kenteken_norm": "ZN796H",
@@ -14,6 +14,42 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 97026
+    },
+    {
+      "kenteken_norm": "HVN19T",
+      "brand": "Morelo",
+      "model": "Grand",
+      "score": 0.009,
+      "flags": [
+        "massa",
+        "cilinderinhoud",
+        "cilinderinhoud_per_cilinder"
+      ],
+      "catalog_price": 213665
+    },
+    {
+      "kenteken_norm": "P317HB",
+      "brand": "Mercedes-Benz",
+      "model": "Actros",
+      "score": 0.009,
+      "flags": [
+        "massa",
+        "cilinderinhoud",
+        "cilinderinhoud_per_cilinder"
+      ],
+      "catalog_price": 145483
+    },
+    {
+      "kenteken_norm": "ZV732K",
+      "brand": "Stx",
+      "model": "Actros",
+      "score": 0.009,
+      "flags": [
+        "massa",
+        "cilinderinhoud",
+        "cilinderinhoud_per_cilinder"
+      ],
+      "catalog_price": 138683
     },
     {
       "kenteken_norm": "GTD28D",
@@ -412,50 +448,6 @@
       "catalog_price": 205914
     },
     {
-      "kenteken_norm": "GBD71P",
-      "brand": "Seat",
-      "model": "Arona",
-      "score": 0.09,
-      "flags": [
-        "catalogusprijs_afwijkend",
-        "bpm_te_laag"
-      ],
-      "catalog_price": 2243961
-    },
-    {
-      "kenteken_norm": "GBR91G",
-      "brand": "Kia",
-      "model": "Stonic",
-      "score": 0.09,
-      "flags": [
-        "catalogusprijs_afwijkend",
-        "bpm_te_laag"
-      ],
-      "catalog_price": 3050586
-    },
-    {
-      "kenteken_norm": "GDK65J",
-      "brand": "Lexus",
-      "model": "Nx300h",
-      "score": 0.09,
-      "flags": [
-        "catalogusprijs_afwijkend",
-        "bpm_te_laag"
-      ],
-      "catalog_price": 5489231
-    },
-    {
-      "kenteken_norm": "GF130N",
-      "brand": "Peugeot",
-      "model": "2008",
-      "score": 0.09,
-      "flags": [
-        "catalogusprijs_afwijkend",
-        "bpm_te_laag"
-      ],
-      "catalog_price": 4300221
-    },
-    {
       "kenteken_norm": "GF132N",
       "brand": "Peugeot",
       "model": "2008",
@@ -531,28 +523,6 @@
         "bpm_te_laag"
       ],
       "catalog_price": 186577
-    },
-    {
-      "kenteken_norm": "GXR03L",
-      "brand": "Audi",
-      "model": "Q8",
-      "score": 0.09,
-      "flags": [
-        "catalogusprijs_afwijkend",
-        "bpm_te_laag"
-      ],
-      "catalog_price": 1327750
-    },
-    {
-      "kenteken_norm": "GXZ67S",
-      "brand": "Fiat",
-      "model": "Panda",
-      "score": 0.09,
-      "flags": [
-        "catalogusprijs_afwijkend",
-        "bpm_te_laag"
-      ],
-      "catalog_price": 1634753
     },
     {
       "kenteken_norm": "GZZ99G",
@@ -1301,17 +1271,6 @@
         "bpm_te_laag"
       ],
       "catalog_price": 194611
-    },
-    {
-      "kenteken_norm": "HLF10G",
-      "brand": "Citroen",
-      "model": "C3",
-      "score": 0.09,
-      "flags": [
-        "catalogusprijs_afwijkend",
-        "bpm_te_laag"
-      ],
-      "catalog_price": 1507727
     },
     {
       "kenteken_norm": "HLH11Z",
@@ -5758,6 +5717,28 @@
       "catalog_price": 955633
     },
     {
+      "kenteken_norm": "KPG30K",
+      "brand": "Ford",
+      "model": "Puma",
+      "score": 0.09,
+      "flags": [
+        "catalogusprijs_afwijkend",
+        "bpm_te_laag"
+      ],
+      "catalog_price": 2946350
+    },
+    {
+      "kenteken_norm": "KPG63J",
+      "brand": "Fiat",
+      "model": "500",
+      "score": 0.09,
+      "flags": [
+        "catalogusprijs_afwijkend",
+        "bpm_te_laag"
+      ],
+      "catalog_price": 177015
+    },
+    {
       "kenteken_norm": "KPG96L",
       "brand": "Volkswagen",
       "model": "Polo",
@@ -5800,6 +5781,17 @@
         "bpm_te_laag"
       ],
       "catalog_price": 180511
+    },
+    {
+      "kenteken_norm": "KPS63T",
+      "brand": "Hyundai",
+      "model": "Santa Fe",
+      "score": 0.09,
+      "flags": [
+        "catalogusprijs_afwijkend",
+        "bpm_te_laag"
+      ],
+      "catalog_price": 6791992
     },
     {
       "kenteken_norm": "KS395F",
@@ -6088,17 +6080,6 @@
       "catalog_price": 275461
     },
     {
-      "kenteken_norm": "S187HF",
-      "brand": "Fiat",
-      "model": "500",
-      "score": 0.09,
-      "flags": [
-        "catalogusprijs_afwijkend",
-        "bpm_te_laag"
-      ],
-      "catalog_price": 3545001
-    },
-    {
       "kenteken_norm": "S249FX",
       "brand": "Renault",
       "model": "Clio",
@@ -6163,17 +6144,6 @@
         "bpm_te_laag"
       ],
       "catalog_price": 185328
-    },
-    {
-      "kenteken_norm": "T143HL",
-      "brand": "Toyota",
-      "model": "Rav4",
-      "score": 0.09,
-      "flags": [
-        "catalogusprijs_afwijkend",
-        "bpm_te_laag"
-      ],
-      "catalog_price": 4211668
     },
     {
       "kenteken_norm": "T198NX",
@@ -7717,16 +7687,6 @@
       "catalog_price": 198735
     },
     {
-      "kenteken_norm": "GZR34L",
-      "brand": "Mercedes-Benz",
-      "model": "A-Klasse",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 519924
-    },
-    {
       "kenteken_norm": "H024HX",
       "brand": "Toyota",
       "model": "Yaris",
@@ -7735,16 +7695,6 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 162214
-    },
-    {
-      "kenteken_norm": "H038JZ",
-      "brand": "Suzuki",
-      "model": "Jimny",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 1537818
     },
     {
       "kenteken_norm": "H042HG",
@@ -8167,16 +8117,6 @@
       "catalog_price": 174209
     },
     {
-      "kenteken_norm": "HBF79S",
-      "brand": "Hyundai",
-      "model": "Ioniq5",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 6394851
-    },
-    {
       "kenteken_norm": "HBL45J",
       "brand": "Renault",
       "model": "Clio",
@@ -8225,16 +8165,6 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 255354
-    },
-    {
-      "kenteken_norm": "HDB20K",
-      "brand": "Mini",
-      "model": "One",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 1723674
     },
     {
       "kenteken_norm": "HDB48T",
@@ -8485,16 +8415,6 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 151554
-    },
-    {
-      "kenteken_norm": "HGJ97K",
-      "brand": "Bmw",
-      "model": "X3",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 2590103
     },
     {
       "kenteken_norm": "HGL77X",
@@ -23527,6 +23447,16 @@
       "catalog_price": 188637
     },
     {
+      "kenteken_norm": "KNH90P",
+      "brand": "Mazda",
+      "model": "Cx-30",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 205566
+    },
+    {
       "kenteken_norm": "KNK79P",
       "brand": "Jeep",
       "model": "Renegade",
@@ -23535,6 +23465,16 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 184535
+    },
+    {
+      "kenteken_norm": "KNK80P",
+      "brand": "Mercedes-Benz",
+      "model": "Cla",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 282904
     },
     {
       "kenteken_norm": "KNL03T",
@@ -23667,6 +23607,16 @@
       "catalog_price": 189782
     },
     {
+      "kenteken_norm": "KPD33Z",
+      "brand": "Seat",
+      "model": "Arona",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 185065
+    },
+    {
       "kenteken_norm": "KPD70F",
       "brand": "Volkswagen",
       "model": "Polo",
@@ -23685,6 +23635,16 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 191213
+    },
+    {
+      "kenteken_norm": "KPF32V",
+      "brand": "Volkswagen",
+      "model": "Id.7",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 670049
     },
     {
       "kenteken_norm": "KPF86V",
@@ -23735,6 +23695,16 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 166178
+    },
+    {
+      "kenteken_norm": "KPG65K",
+      "brand": "Mini",
+      "model": "One",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 200641
     },
     {
       "kenteken_norm": "KPG78K",
@@ -23895,6 +23865,46 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 183741
+    },
+    {
+      "kenteken_norm": "KPS33N",
+      "brand": "Ford",
+      "model": "Kuga",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 229153
+    },
+    {
+      "kenteken_norm": "KPS33V",
+      "brand": "Renault",
+      "model": "Kadjar",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 187191
+    },
+    {
+      "kenteken_norm": "KPT10H",
+      "brand": "Volkswagen",
+      "model": "T-Roc",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 264873
+    },
+    {
+      "kenteken_norm": "KPT30H",
+      "brand": "Ford",
+      "model": "Focus",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 194332
     },
     {
       "kenteken_norm": "KR546J",
@@ -25467,16 +25477,6 @@
       "catalog_price": 267085
     },
     {
-      "kenteken_norm": "R597LB",
-      "brand": "Dacia",
-      "model": "Lodgy",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 1306722
-    },
-    {
       "kenteken_norm": "R610DS",
       "brand": "Opel",
       "model": "Corsa",
@@ -25645,16 +25645,6 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 269984
-    },
-    {
-      "kenteken_norm": "R988LP",
-      "brand": "Dacia",
-      "model": "Lodgy",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 1306722
     },
     {
       "kenteken_norm": "RD621B",
@@ -25985,16 +25975,6 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 99140
-    },
-    {
-      "kenteken_norm": "SJ009Z",
-      "brand": "Volvo",
-      "model": "Xc60",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 508346
     },
     {
       "kenteken_norm": "SK610S",
