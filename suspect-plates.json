@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-11T09:03:34Z",
+  "generated_at": "2026-07-13T08:38:14Z",
   "threshold": 0.3,
-  "count": 2751,
+  "count": 2757,
   "plates": [
     {
       "kenteken_norm": "ZN796H",
@@ -5792,6 +5792,17 @@
         "bpm_te_laag"
       ],
       "catalog_price": 6791992
+    },
+    {
+      "kenteken_norm": "KPT55N",
+      "brand": "Audi",
+      "model": "Q3",
+      "score": 0.09,
+      "flags": [
+        "catalogusprijs_afwijkend",
+        "bpm_te_laag"
+      ],
+      "catalog_price": 897975
     },
     {
       "kenteken_norm": "KS395F",
@@ -23905,6 +23916,56 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 194332
+    },
+    {
+      "kenteken_norm": "KPT35Z",
+      "brand": "Honda",
+      "model": "Civic",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 188820
+    },
+    {
+      "kenteken_norm": "KPT50Z",
+      "brand": "Volkswagen",
+      "model": "Golf",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 211264
+    },
+    {
+      "kenteken_norm": "KPT51T",
+      "brand": "Seat",
+      "model": "Leon",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 190278
+    },
+    {
+      "kenteken_norm": "KPT72X",
+      "brand": "Volkswagen",
+      "model": "Golf",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 187502
+    },
+    {
+      "kenteken_norm": "KPT87Z",
+      "brand": "Peugeot",
+      "model": "108",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 177180
     },
     {
       "kenteken_norm": "KR546J",
