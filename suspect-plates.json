@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-13T08:38:14Z",
+  "generated_at": "2026-07-14T09:26:00Z",
   "threshold": 0.3,
-  "count": 2757,
+  "count": 2760,
   "plates": [
     {
       "kenteken_norm": "ZN796H",
@@ -5803,6 +5803,17 @@
         "bpm_te_laag"
       ],
       "catalog_price": 897975
+    },
+    {
+      "kenteken_norm": "KPX83F",
+      "brand": "Ford",
+      "model": "Kuga",
+      "score": 0.09,
+      "flags": [
+        "catalogusprijs_afwijkend",
+        "bpm_te_laag"
+      ],
+      "catalog_price": 412154
     },
     {
       "kenteken_norm": "KS395F",
@@ -19218,16 +19229,6 @@
       "catalog_price": 196666
     },
     {
-      "kenteken_norm": "JVV37T",
-      "brand": "Volkswagen",
-      "model": "Golf",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 201544
-    },
-    {
       "kenteken_norm": "JVV75F",
       "brand": "Skoda",
       "model": "Octavia",
@@ -23966,6 +23967,36 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 177180
+    },
+    {
+      "kenteken_norm": "KPX37P",
+      "brand": "Opel",
+      "model": "Combo",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 186517
+    },
+    {
+      "kenteken_norm": "KPX49B",
+      "brand": "Ford",
+      "model": "Focus",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 187587
+    },
+    {
+      "kenteken_norm": "KPX79S",
+      "brand": "Skoda",
+      "model": "Scala",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 191048
     },
     {
       "kenteken_norm": "KR546J",
