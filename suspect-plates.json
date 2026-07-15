@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-14T09:26:00Z",
+  "generated_at": "2026-07-15T10:01:48Z",
   "threshold": 0.3,
-  "count": 2760,
+  "count": 2766,
   "plates": [
     {
       "kenteken_norm": "ZN796H",
@@ -23999,6 +23999,26 @@
       "catalog_price": 191048
     },
     {
+      "kenteken_norm": "KPZ85K",
+      "brand": "Volkswagen",
+      "model": "Golf",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 191807
+    },
+    {
+      "kenteken_norm": "KPZ92X",
+      "brand": "Tesla",
+      "model": "Model Y",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 640069
+    },
+    {
       "kenteken_norm": "KR546J",
       "brand": "Peugeot",
       "model": "107",
@@ -24007,6 +24027,46 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 91510
+    },
+    {
+      "kenteken_norm": "KRB30G",
+      "brand": "Citroen",
+      "model": "C3",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 180849
+    },
+    {
+      "kenteken_norm": "KRB43G",
+      "brand": "Mitsubishi",
+      "model": "Space Star",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 182861
+    },
+    {
+      "kenteken_norm": "KRB65G",
+      "brand": "Ford",
+      "model": "Focus",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 190811
+    },
+    {
+      "kenteken_norm": "KRB92F",
+      "brand": "Ford",
+      "model": "Fiesta",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 181837
     },
     {
       "kenteken_norm": "KS743T",
