@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-15T10:01:48Z",
+  "generated_at": "2026-07-16T08:45:25Z",
   "threshold": 0.3,
-  "count": 2766,
+  "count": 2767,
   "plates": [
     {
       "kenteken_norm": "ZN796H",
@@ -5814,6 +5814,28 @@
         "bpm_te_laag"
       ],
       "catalog_price": 412154
+    },
+    {
+      "kenteken_norm": "KRB06R",
+      "brand": "Renault",
+      "model": "Clio",
+      "score": 0.09,
+      "flags": [
+        "catalogusprijs_afwijkend",
+        "bpm_te_laag"
+      ],
+      "catalog_price": 178624
+    },
+    {
+      "kenteken_norm": "KRB75V",
+      "brand": "Fiat",
+      "model": "500",
+      "score": 0.09,
+      "flags": [
+        "catalogusprijs_afwijkend",
+        "bpm_te_laag"
+      ],
+      "catalog_price": 188207
     },
     {
       "kenteken_norm": "KS395F",
@@ -16627,16 +16649,6 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 192640
-    },
-    {
-      "kenteken_norm": "JJS58L",
-      "brand": "Renault",
-      "model": "Captur",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 196072
     },
     {
       "kenteken_norm": "JJS67L",
