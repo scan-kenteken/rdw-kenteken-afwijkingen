@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-16T08:45:25Z",
+  "generated_at": "2026-07-17T09:17:04Z",
   "threshold": 0.3,
-  "count": 2767,
+  "count": 2773,
   "plates": [
     {
       "kenteken_norm": "ZN796H",
@@ -1271,17 +1271,6 @@
         "bpm_te_laag"
       ],
       "catalog_price": 194611
-    },
-    {
-      "kenteken_norm": "HLH11Z",
-      "brand": "Peugeot",
-      "model": "208",
-      "score": 0.09,
-      "flags": [
-        "catalogusprijs_afwijkend",
-        "bpm_te_laag"
-      ],
-      "catalog_price": 177695
     },
     {
       "kenteken_norm": "HLJ38B",
@@ -18681,16 +18670,6 @@
       "catalog_price": 190644
     },
     {
-      "kenteken_norm": "JTS30H",
-      "brand": "Ford",
-      "model": "Tourneo",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 155142
-    },
-    {
       "kenteken_norm": "JTS41H",
       "brand": "Peugeot",
       "model": "208",
@@ -24079,6 +24058,86 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 181837
+    },
+    {
+      "kenteken_norm": "KRD20T",
+      "brand": "Citroen",
+      "model": "C1",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 174118
+    },
+    {
+      "kenteken_norm": "KRD47R",
+      "brand": "Volkswagen",
+      "model": "T-Cross",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 374244
+    },
+    {
+      "kenteken_norm": "KRD83S",
+      "brand": "Toyota",
+      "model": "C-Hr",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 195574
+    },
+    {
+      "kenteken_norm": "KRD94P",
+      "brand": "Citroen",
+      "model": "C3",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 185522
+    },
+    {
+      "kenteken_norm": "KRF12S",
+      "brand": "Peugeot",
+      "model": "Rifter",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 203824
+    },
+    {
+      "kenteken_norm": "KRF18F",
+      "brand": "Lexus",
+      "model": "Ct200h",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 207764
+    },
+    {
+      "kenteken_norm": "KRF21S",
+      "brand": "Dacia",
+      "model": "Lodgy",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 181860
+    },
+    {
+      "kenteken_norm": "KRF96F",
+      "brand": "Seat",
+      "model": "Ibiza",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 175629
     },
     {
       "kenteken_norm": "KS743T",
