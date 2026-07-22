@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-18T08:54:18Z",
+  "generated_at": "2026-07-22T09:36:30Z",
   "threshold": 0.3,
-  "count": 2773,
+  "count": 2782,
   "plates": [
     {
       "kenteken_norm": "ZN796H",
@@ -83,6 +83,17 @@
         "cilinderinhoud_per_cilinder"
       ],
       "catalog_price": 42030
+    },
+    {
+      "kenteken_norm": "HGT56J",
+      "brand": "Citroen",
+      "model": "C4",
+      "score": 0.03,
+      "flags": [
+        "cilinderinhoud",
+        "cilinderinhoud_per_cilinder"
+      ],
+      "catalog_price": 24384
     },
     {
       "kenteken_norm": "HVT97X",
@@ -611,28 +622,6 @@
         "bpm_te_laag"
       ],
       "catalog_price": 196296
-    },
-    {
-      "kenteken_norm": "H367RT",
-      "brand": "Volkswagen",
-      "model": "Touran",
-      "score": 0.09,
-      "flags": [
-        "catalogusprijs_afwijkend",
-        "bpm_te_laag"
-      ],
-      "catalog_price": 4251778
-    },
-    {
-      "kenteken_norm": "H404PD",
-      "brand": "Mercedes-Benz",
-      "model": "C-Klasse",
-      "score": 0.09,
-      "flags": [
-        "catalogusprijs_afwijkend",
-        "bpm_te_laag"
-      ],
-      "catalog_price": 4567016
     },
     {
       "kenteken_norm": "H416HB",
@@ -2503,17 +2492,6 @@
         "bpm_te_laag"
       ],
       "catalog_price": 2422608
-    },
-    {
-      "kenteken_norm": "J254XN",
-      "brand": "Bmw",
-      "model": "X1",
-      "score": 0.09,
-      "flags": [
-        "catalogusprijs_afwijkend",
-        "bpm_te_laag"
-      ],
-      "catalog_price": 3886090
     },
     {
       "kenteken_norm": "J323DS",
@@ -5618,17 +5596,6 @@
       "catalog_price": 189966
     },
     {
-      "kenteken_norm": "KNF12K",
-      "brand": "Lexus",
-      "model": "Rx450h+",
-      "score": 0.09,
-      "flags": [
-        "catalogusprijs_afwijkend",
-        "bpm_te_laag"
-      ],
-      "catalog_price": 9653136
-    },
-    {
       "kenteken_norm": "KNG18H",
       "brand": "Toyota",
       "model": "Yaris",
@@ -5825,6 +5792,17 @@
         "bpm_te_laag"
       ],
       "catalog_price": 188207
+    },
+    {
+      "kenteken_norm": "KRH42D",
+      "brand": "Peugeot",
+      "model": "3008",
+      "score": 0.09,
+      "flags": [
+        "catalogusprijs_afwijkend",
+        "bpm_te_laag"
+      ],
+      "catalog_price": 4149744
     },
     {
       "kenteken_norm": "KS395F",
@@ -24138,6 +24116,116 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 175629
+    },
+    {
+      "kenteken_norm": "KRH01P",
+      "brand": "Peugeot",
+      "model": "308",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 149453
+    },
+    {
+      "kenteken_norm": "KRH20H",
+      "brand": "Peugeot",
+      "model": "2008",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 297391
+    },
+    {
+      "kenteken_norm": "KRH36B",
+      "brand": "Renault",
+      "model": "Captur",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 184673
+    },
+    {
+      "kenteken_norm": "KRH63J",
+      "brand": "Renault",
+      "model": "Captur",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 179082
+    },
+    {
+      "kenteken_norm": "KRH83N",
+      "brand": "Citroen",
+      "model": "C3",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 191052
+    },
+    {
+      "kenteken_norm": "KRH85X",
+      "brand": "Toyota",
+      "model": "Aygo",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 175669
+    },
+    {
+      "kenteken_norm": "KRK13H",
+      "brand": "Volkswagen",
+      "model": "Polo",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 149492
+    },
+    {
+      "kenteken_norm": "KRK34L",
+      "brand": "Fiat",
+      "model": "500",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 189095
+    },
+    {
+      "kenteken_norm": "KRK39X",
+      "brand": "Peugeot",
+      "model": "108",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 184107
+    },
+    {
+      "kenteken_norm": "KRK44X",
+      "brand": "Kia",
+      "model": "Picanto",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 173367
+    },
+    {
+      "kenteken_norm": "KRK84K",
+      "brand": "Citroen",
+      "model": "Berlingo",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 190166
     },
     {
       "kenteken_norm": "KS743T",
