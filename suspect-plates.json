@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-22T09:36:30Z",
+  "generated_at": "2026-07-23T09:44:08Z",
   "threshold": 0.3,
-  "count": 2782,
+  "count": 2778,
   "plates": [
     {
       "kenteken_norm": "ZN796H",
@@ -26,6 +26,18 @@
         "cilinderinhoud_per_cilinder"
       ],
       "catalog_price": 213665
+    },
+    {
+      "kenteken_norm": "L071VS",
+      "brand": "Man",
+      "model": "Lion",
+      "score": 0.009,
+      "flags": [
+        "massa",
+        "cilinderinhoud",
+        "cilinderinhoud_per_cilinder"
+      ],
+      "catalog_price": 313727
     },
     {
       "kenteken_norm": "P317HB",
@@ -646,28 +658,6 @@
       "catalog_price": 166710
     },
     {
-      "kenteken_norm": "H740DL",
-      "brand": "Tesla",
-      "model": "Model 3",
-      "score": 0.09,
-      "flags": [
-        "catalogusprijs_afwijkend",
-        "bpm_te_laag"
-      ],
-      "catalog_price": 600080
-    },
-    {
-      "kenteken_norm": "H751GB",
-      "brand": "Toyota",
-      "model": "Rav4",
-      "score": 0.09,
-      "flags": [
-        "catalogusprijs_afwijkend",
-        "bpm_te_laag"
-      ],
-      "catalog_price": 3457651
-    },
-    {
       "kenteken_norm": "H787VF",
       "brand": "Volkswagen",
       "model": "Up",
@@ -996,17 +986,6 @@
         "bpm_te_laag"
       ],
       "catalog_price": 179246
-    },
-    {
-      "kenteken_norm": "HK502X",
-      "brand": "Volkswagen",
-      "model": "Passat",
-      "score": 0.09,
-      "flags": [
-        "catalogusprijs_afwijkend",
-        "bpm_te_laag"
-      ],
-      "catalog_price": 576609
     },
     {
       "kenteken_norm": "HKF08H",
@@ -20198,16 +20177,6 @@
       "catalog_price": 181514
     },
     {
-      "kenteken_norm": "K257SH",
-      "brand": "Kia",
-      "model": "Picanto",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 98442
-    },
-    {
       "kenteken_norm": "K284ZT",
       "brand": "Suzuki",
       "model": "Vitara",
@@ -23696,16 +23665,6 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 194248
-    },
-    {
-      "kenteken_norm": "KPG90L",
-      "brand": "Renault",
-      "model": "Arkana",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 234775
     },
     {
       "kenteken_norm": "KPH10H",
