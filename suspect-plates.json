@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T09:44:08Z",
+  "generated_at": "2026-07-24T10:09:50Z",
   "threshold": 0.3,
   "count": 2778,
   "plates": [
@@ -13707,16 +13707,6 @@
       "catalog_price": 193794
     },
     {
-      "kenteken_norm": "HZG53N",
-      "brand": "Volkswagen",
-      "model": "T-Roc",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 550313
-    },
-    {
       "kenteken_norm": "HZH36V",
       "brand": "Tesla",
       "model": "Model 3",
@@ -24185,6 +24175,16 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 190166
+    },
+    {
+      "kenteken_norm": "KRL63P",
+      "brand": "Nissan",
+      "model": "Qashqai",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 195472
     },
     {
       "kenteken_norm": "KS743T",
