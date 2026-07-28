@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-25T09:01:56Z",
+  "generated_at": "2026-07-28T07:59:41Z",
   "threshold": 0.3,
-  "count": 2778,
+  "count": 2784,
   "plates": [
     {
       "kenteken_norm": "ZN796H",
@@ -5782,6 +5782,28 @@
         "bpm_te_laag"
       ],
       "catalog_price": 4149744
+    },
+    {
+      "kenteken_norm": "KRS75K",
+      "brand": "Mg",
+      "model": "Cyberster",
+      "score": 0.09,
+      "flags": [
+        "catalogusprijs_afwijkend",
+        "bpm_te_laag"
+      ],
+      "catalog_price": 6391082
+    },
+    {
+      "kenteken_norm": "KRS95H",
+      "brand": "Toyota",
+      "model": "Auris",
+      "score": 0.09,
+      "flags": [
+        "catalogusprijs_afwijkend",
+        "bpm_te_laag"
+      ],
+      "catalog_price": 2490256
     },
     {
       "kenteken_norm": "KS395F",
@@ -24185,6 +24207,46 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 195472
+    },
+    {
+      "kenteken_norm": "KRN24J",
+      "brand": "Audi",
+      "model": "A1",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 1215049
+    },
+    {
+      "kenteken_norm": "KRR16D",
+      "brand": "Toyota",
+      "model": "Auris",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 199351
+    },
+    {
+      "kenteken_norm": "KRR70G",
+      "brand": "Citroen",
+      "model": "Berlingo",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 191827
+    },
+    {
+      "kenteken_norm": "KRS14K",
+      "brand": "Seat",
+      "model": "Leon",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 191845
     },
     {
       "kenteken_norm": "KS743T",
