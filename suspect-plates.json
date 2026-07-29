@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-28T07:59:41Z",
+  "generated_at": "2026-07-29T09:30:52Z",
   "threshold": 0.3,
-  "count": 2784,
+  "count": 2791,
   "plates": [
     {
       "kenteken_norm": "ZN796H",
@@ -28,6 +28,18 @@
       "catalog_price": 213665
     },
     {
+      "kenteken_norm": "HXG12T",
+      "brand": "Concorde",
+      "model": "Liner",
+      "score": 0.009,
+      "flags": [
+        "massa",
+        "cilinderinhoud",
+        "cilinderinhoud_per_cilinder"
+      ],
+      "catalog_price": 122868
+    },
+    {
       "kenteken_norm": "L071VS",
       "brand": "Man",
       "model": "Lion",
@@ -50,6 +62,18 @@
         "cilinderinhoud_per_cilinder"
       ],
       "catalog_price": 145483
+    },
+    {
+      "kenteken_norm": "P893NV",
+      "brand": "Morelo",
+      "model": "Grand",
+      "score": 0.009,
+      "flags": [
+        "massa",
+        "cilinderinhoud",
+        "cilinderinhoud_per_cilinder"
+      ],
+      "catalog_price": 178810
     },
     {
       "kenteken_norm": "ZV732K",
@@ -4761,17 +4785,6 @@
       "catalog_price": 180949
     },
     {
-      "kenteken_norm": "KDH58V",
-      "brand": "Mercedes-Benz",
-      "model": "A-Klasse",
-      "score": 0.09,
-      "flags": [
-        "catalogusprijs_afwijkend",
-        "bpm_te_laag"
-      ],
-      "catalog_price": 656383
-    },
-    {
       "kenteken_norm": "KDJ28F",
       "brand": "Hyundai",
       "model": "I30",
@@ -5784,6 +5797,17 @@
       "catalog_price": 4149744
     },
     {
+      "kenteken_norm": "KRN44J",
+      "brand": "Renault",
+      "model": "Clio",
+      "score": 0.09,
+      "flags": [
+        "catalogusprijs_afwijkend",
+        "bpm_te_laag"
+      ],
+      "catalog_price": 2984470
+    },
+    {
       "kenteken_norm": "KRS75K",
       "brand": "Mg",
       "model": "Cyberster",
@@ -5804,6 +5828,17 @@
         "bpm_te_laag"
       ],
       "catalog_price": 2490256
+    },
+    {
+      "kenteken_norm": "KRT38B",
+      "brand": "Toyota",
+      "model": "Yaris",
+      "score": 0.09,
+      "flags": [
+        "catalogusprijs_afwijkend",
+        "bpm_te_laag"
+      ],
+      "catalog_price": 2551131
     },
     {
       "kenteken_norm": "KS395F",
@@ -5837,17 +5872,6 @@
         "bpm_te_laag"
       ],
       "catalog_price": 172342
-    },
-    {
-      "kenteken_norm": "L277BX",
-      "brand": "Chevrolet",
-      "model": "Spark",
-      "score": 0.09,
-      "flags": [
-        "catalogusprijs_afwijkend",
-        "bpm_te_laag"
-      ],
-      "catalog_price": 172613
     },
     {
       "kenteken_norm": "L355GG",
@@ -6807,16 +6831,6 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 185470
-    },
-    {
-      "kenteken_norm": "41LZH5",
-      "brand": "Kia",
-      "model": "Ceed",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 160595
     },
     {
       "kenteken_norm": "42ZVB2",
@@ -8607,16 +8621,6 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 181895
-    },
-    {
-      "kenteken_norm": "HHN56P",
-      "brand": "Peugeot",
-      "model": "508",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 207685
     },
     {
       "kenteken_norm": "HHN62T",
@@ -20189,6 +20193,16 @@
       "catalog_price": 181514
     },
     {
+      "kenteken_norm": "K257SH",
+      "brand": "Kia",
+      "model": "Picanto",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 98442
+    },
+    {
       "kenteken_norm": "K284ZT",
       "brand": "Suzuki",
       "model": "Vitara",
@@ -23399,16 +23413,6 @@
       "catalog_price": 138372
     },
     {
-      "kenteken_norm": "KNG58B",
-      "brand": "Ford",
-      "model": "Fiesta",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 188637
-    },
-    {
       "kenteken_norm": "KNH90P",
       "brand": "Mazda",
       "model": "Cx-30",
@@ -23517,16 +23521,6 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 180365
-    },
-    {
-      "kenteken_norm": "KNV61H",
-      "brand": "Renault",
-      "model": "Megane",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 195381
     },
     {
       "kenteken_norm": "KNV62K",
@@ -24247,6 +24241,86 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 191845
+    },
+    {
+      "kenteken_norm": "KRS61X",
+      "brand": "Ford",
+      "model": "Fiesta",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 188837
+    },
+    {
+      "kenteken_norm": "KRS89X",
+      "brand": "Kia",
+      "model": "Stonic",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 181739
+    },
+    {
+      "kenteken_norm": "KRS92T",
+      "brand": "Peugeot",
+      "model": "2008",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 192816
+    },
+    {
+      "kenteken_norm": "KRS95T",
+      "brand": "Ford",
+      "model": "Fiesta",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 187587
+    },
+    {
+      "kenteken_norm": "KRV36T",
+      "brand": "Kia",
+      "model": "Proceed",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 189626
+    },
+    {
+      "kenteken_norm": "KRV80T",
+      "brand": "Fiat",
+      "model": "500",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 178334
+    },
+    {
+      "kenteken_norm": "KRX05B",
+      "brand": "Peugeot",
+      "model": "2008",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 191966
+    },
+    {
+      "kenteken_norm": "KRX32T",
+      "brand": "Ford",
+      "model": "Focus",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 189595
     },
     {
       "kenteken_norm": "KS743T",
