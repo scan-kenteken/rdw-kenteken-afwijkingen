@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T09:30:52Z",
+  "generated_at": "2026-07-30T09:27:11Z",
   "threshold": 0.3,
   "count": 2791,
   "plates": [
@@ -74,6 +74,18 @@
         "cilinderinhoud_per_cilinder"
       ],
       "catalog_price": 178810
+    },
+    {
+      "kenteken_norm": "ZG119Z",
+      "brand": "Concorde Reisemobile Gmbh",
+      "model": "Centurion",
+      "score": 0.009,
+      "flags": [
+        "massa",
+        "cilinderinhoud",
+        "cilinderinhoud_per_cilinder"
+      ],
+      "catalog_price": 147688
     },
     {
       "kenteken_norm": "ZV732K",
@@ -9601,16 +9613,6 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 187441
-    },
-    {
-      "kenteken_norm": "HKS15B",
-      "brand": "Suzuki",
-      "model": "Swift",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 188978
     },
     {
       "kenteken_norm": "HKS54P",
