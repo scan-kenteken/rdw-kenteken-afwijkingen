@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-30T09:27:11Z",
+  "generated_at": "2026-07-31T08:57:20Z",
   "threshold": 0.3,
-  "count": 2791,
+  "count": 2785,
   "plates": [
     {
       "kenteken_norm": "ZN796H",
@@ -540,17 +540,6 @@
       "catalog_price": 468191
     },
     {
-      "kenteken_norm": "GHT31D",
-      "brand": "Lexus",
-      "model": "Nx300h",
-      "score": 0.09,
-      "flags": [
-        "catalogusprijs_afwijkend",
-        "bpm_te_laag"
-      ],
-      "catalog_price": 5389044
-    },
-    {
       "kenteken_norm": "GJX20K",
       "brand": "Skoda",
       "model": "Octavia",
@@ -824,17 +813,6 @@
         "bpm_te_laag"
       ],
       "catalog_price": 341455
-    },
-    {
-      "kenteken_norm": "HGV87K",
-      "brand": "Peugeot",
-      "model": "308",
-      "score": 0.09,
-      "flags": [
-        "catalogusprijs_afwijkend",
-        "bpm_te_laag"
-      ],
-      "catalog_price": 2146320
     },
     {
       "kenteken_norm": "HHH62Z",
@@ -1420,17 +1398,6 @@
       "catalog_price": 183765
     },
     {
-      "kenteken_norm": "HPB76S",
-      "brand": "Volkswagen",
-      "model": "Golf",
-      "score": 0.09,
-      "flags": [
-        "catalogusprijs_afwijkend",
-        "bpm_te_laag"
-      ],
-      "catalog_price": 7396684
-    },
-    {
       "kenteken_norm": "HPF06Z",
       "brand": "Toyota",
       "model": "Aygo",
@@ -1484,17 +1451,6 @@
         "bpm_te_laag"
       ],
       "catalog_price": 171929
-    },
-    {
-      "kenteken_norm": "HPJ05T",
-      "brand": "Renault",
-      "model": "Twingo",
-      "score": 0.09,
-      "flags": [
-        "catalogusprijs_afwijkend",
-        "bpm_te_laag"
-      ],
-      "catalog_price": 1863057
     },
     {
       "kenteken_norm": "HPK13H",
@@ -18295,16 +18251,6 @@
       "catalog_price": 174174
     },
     {
-      "kenteken_norm": "JSF64V",
-      "brand": "Volkswagen",
-      "model": "Polo",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 257386
-    },
-    {
       "kenteken_norm": "JSF68X",
       "brand": "Toyota",
       "model": "Yaris",
@@ -27883,16 +27829,6 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 363808
-    },
-    {
-      "kenteken_norm": "Z546DP",
-      "brand": "Audi",
-      "model": "Q4",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 5083016
     },
     {
       "kenteken_norm": "Z703PN",
