@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T08:57:20Z",
+  "generated_at": "2026-08-01T08:01:38Z",
   "threshold": 0.3,
   "count": 2785,
   "plates": [
@@ -5818,6 +5818,17 @@
         "bpm_te_laag"
       ],
       "catalog_price": 288725
+    },
+    {
+      "kenteken_norm": "KSB99P",
+      "brand": "Volkswagen",
+      "model": "Tiguan",
+      "score": 0.09,
+      "flags": [
+        "catalogusprijs_afwijkend",
+        "bpm_te_laag"
+      ],
+      "catalog_price": 542199
     },
     {
       "kenteken_norm": "L021VG",
@@ -25279,16 +25290,6 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 512243
-    },
-    {
-      "kenteken_norm": "P353HG",
-      "brand": "Mini",
-      "model": "Cooper",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 566166
     },
     {
       "kenteken_norm": "P353ZX",
