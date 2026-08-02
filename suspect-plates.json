@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-01T08:01:38Z",
+  "generated_at": "2026-08-02T09:07:14Z",
   "threshold": 0.3,
-  "count": 2785,
+  "count": 2793,
   "plates": [
     {
       "kenteken_norm": "ZN796H",
@@ -5829,6 +5829,17 @@
         "bpm_te_laag"
       ],
       "catalog_price": 542199
+    },
+    {
+      "kenteken_norm": "KSH83H",
+      "brand": "Mercedes-Benz",
+      "model": "Cla",
+      "score": 0.09,
+      "flags": [
+        "catalogusprijs_afwijkend",
+        "bpm_te_laag"
+      ],
+      "catalog_price": 3807808
     },
     {
       "kenteken_norm": "L021VG",
@@ -13470,16 +13481,6 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 188221
-    },
-    {
-      "kenteken_norm": "HXS07R",
-      "brand": "Ford",
-      "model": "Fusion",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 91090
     },
     {
       "kenteken_norm": "HXS69G",
@@ -24172,6 +24173,26 @@
       "catalog_price": 1215049
     },
     {
+      "kenteken_norm": "KRP83R",
+      "brand": "Ford",
+      "model": "Transit",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 150098
+    },
+    {
+      "kenteken_norm": "KRP89R",
+      "brand": "Volkswagen",
+      "model": "Polo",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 181539
+    },
+    {
       "kenteken_norm": "KRR16D",
       "brand": "Toyota",
       "model": "Auris",
@@ -24290,6 +24311,66 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 173015
+    },
+    {
+      "kenteken_norm": "KSG37P",
+      "brand": "Volkswagen",
+      "model": "Up",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 186861
+    },
+    {
+      "kenteken_norm": "KSG78J",
+      "brand": "Volkswagen",
+      "model": "Polo",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 194576
+    },
+    {
+      "kenteken_norm": "KSG98J",
+      "brand": "Volkswagen",
+      "model": "Polo",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 190067
+    },
+    {
+      "kenteken_norm": "KSH42H",
+      "brand": "Seat",
+      "model": "Leon",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 194750
+    },
+    {
+      "kenteken_norm": "KSH50G",
+      "brand": "Ford",
+      "model": "Fiesta",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 187313
+    },
+    {
+      "kenteken_norm": "KSH82G",
+      "brand": "Fiat",
+      "model": "500",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 186291
     },
     {
       "kenteken_norm": "KX462B",
