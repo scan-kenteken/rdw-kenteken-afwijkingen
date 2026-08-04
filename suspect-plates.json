@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-03T09:27:33Z",
+  "generated_at": "2026-08-04T10:40:13Z",
   "threshold": 0.3,
-  "count": 2793,
+  "count": 2782,
   "plates": [
     {
       "kenteken_norm": "ZN796H",
@@ -1728,17 +1728,6 @@
       "catalog_price": 171295
     },
     {
-      "kenteken_norm": "HSF52G",
-      "brand": "Bmw",
-      "model": "X5",
-      "score": 0.09,
-      "flags": [
-        "catalogusprijs_afwijkend",
-        "bpm_te_laag"
-      ],
-      "catalog_price": 6508306
-    },
-    {
       "kenteken_norm": "HSG66F",
       "brand": "Citroen",
       "model": "C3",
@@ -2267,17 +2256,6 @@
       "catalog_price": 182128
     },
     {
-      "kenteken_norm": "HXJ50G",
-      "brand": "Mini",
-      "model": "Cooper",
-      "score": 0.09,
-      "flags": [
-        "catalogusprijs_afwijkend",
-        "bpm_te_laag"
-      ],
-      "catalog_price": 2993346
-    },
-    {
       "kenteken_norm": "HXL42H",
       "brand": "Citroen",
       "model": "C1",
@@ -2454,17 +2432,6 @@
       "catalog_price": 179677
     },
     {
-      "kenteken_norm": "J086TZ",
-      "brand": "Skoda",
-      "model": "Octavia",
-      "score": 0.09,
-      "flags": [
-        "catalogusprijs_afwijkend",
-        "bpm_te_laag"
-      ],
-      "catalog_price": 2422608
-    },
-    {
       "kenteken_norm": "J323DS",
       "brand": "Toyota",
       "model": "C-Hr",
@@ -2485,17 +2452,6 @@
         "bpm_te_laag"
       ],
       "catalog_price": 230558
-    },
-    {
-      "kenteken_norm": "J543NL",
-      "brand": "Bmw",
-      "model": "X1",
-      "score": 0.09,
-      "flags": [
-        "catalogusprijs_afwijkend",
-        "bpm_te_laag"
-      ],
-      "catalog_price": 5710478
     },
     {
       "kenteken_norm": "J562VP",
@@ -12063,16 +12019,6 @@
       "catalog_price": 184467
     },
     {
-      "kenteken_norm": "HSZ03P",
-      "brand": "Tesla",
-      "model": "Model Y",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 500900
-    },
-    {
       "kenteken_norm": "HTD11J",
       "brand": "Peugeot",
       "model": "2008",
@@ -13703,16 +13649,6 @@
       "catalog_price": 193794
     },
     {
-      "kenteken_norm": "HZH36V",
-      "brand": "Tesla",
-      "model": "Model 3",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 4938630
-    },
-    {
       "kenteken_norm": "HZH38B",
       "brand": "Hyundai",
       "model": "I10",
@@ -13731,16 +13667,6 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 194398
-    },
-    {
-      "kenteken_norm": "HZH91T",
-      "brand": "Tesla",
-      "model": "Model 3",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 4572580
     },
     {
       "kenteken_norm": "HZH94B",
@@ -14153,16 +14079,6 @@
       "catalog_price": 184392
     },
     {
-      "kenteken_norm": "J178SK",
-      "brand": "Bmw",
-      "model": "5 Serie",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 870875
-    },
-    {
       "kenteken_norm": "J196FH",
       "brand": "Citroen",
       "model": "C1",
@@ -14283,16 +14199,6 @@
       "catalog_price": 409924
     },
     {
-      "kenteken_norm": "J415SR",
-      "brand": "Bmw",
-      "model": "X4",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 622094
-    },
-    {
       "kenteken_norm": "J419ZN",
       "brand": "Fiat",
       "model": "500",
@@ -14341,16 +14247,6 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 1150466
-    },
-    {
-      "kenteken_norm": "J479PV",
-      "brand": "Lexus",
-      "model": "Rx450h",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 622365
     },
     {
       "kenteken_norm": "J483HF",
@@ -14491,16 +14387,6 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 142562
-    },
-    {
-      "kenteken_norm": "J704PT",
-      "brand": "Bmw",
-      "model": "X7",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 1131151
     },
     {
       "kenteken_norm": "J764ST",
