@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-05T07:38:14Z",
+  "generated_at": "2026-08-06T10:36:32Z",
   "threshold": 0.3,
-  "count": 2782,
+  "count": 2792,
   "plates": [
     {
       "kenteken_norm": "ZN796H",
@@ -5796,6 +5796,17 @@
         "bpm_te_laag"
       ],
       "catalog_price": 3807808
+    },
+    {
+      "kenteken_norm": "KSL88H",
+      "brand": "Mercedes-Benz",
+      "model": "S-Klasse",
+      "score": 0.09,
+      "flags": [
+        "catalogusprijs_afwijkend",
+        "bpm_te_laag"
+      ],
+      "catalog_price": 1685616
     },
     {
       "kenteken_norm": "L021VG",
@@ -24079,6 +24090,16 @@
       "catalog_price": 181539
     },
     {
+      "kenteken_norm": "KRP90T",
+      "brand": "Cadillac",
+      "model": "Lyriq",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 9904818
+    },
+    {
       "kenteken_norm": "KRR16D",
       "brand": "Toyota",
       "model": "Auris",
@@ -24249,6 +24270,16 @@
       "catalog_price": 187313
     },
     {
+      "kenteken_norm": "KSH66V",
+      "brand": "Kia",
+      "model": "Ceed",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 174040
+    },
+    {
       "kenteken_norm": "KSH82G",
       "brand": "Fiat",
       "model": "500",
@@ -24257,6 +24288,76 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 186291
+    },
+    {
+      "kenteken_norm": "KSK19T",
+      "brand": "Renault",
+      "model": "Kadjar",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 188141
+    },
+    {
+      "kenteken_norm": "KSL31J",
+      "brand": "Mitsubishi",
+      "model": "Space Star",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 171150
+    },
+    {
+      "kenteken_norm": "KSL41H",
+      "brand": "Kia",
+      "model": "Niro",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 194283
+    },
+    {
+      "kenteken_norm": "KSL45J",
+      "brand": "Opel",
+      "model": "Crossland",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 185752
+    },
+    {
+      "kenteken_norm": "KSN24L",
+      "brand": "Toyota",
+      "model": "Yaris",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 183718
+    },
+    {
+      "kenteken_norm": "KSN50K",
+      "brand": "Dacia",
+      "model": "Dokker",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 176272
+    },
+    {
+      "kenteken_norm": "KSN56K",
+      "brand": "Volkswagen",
+      "model": "Up",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 186318
     },
     {
       "kenteken_norm": "KX462B",
