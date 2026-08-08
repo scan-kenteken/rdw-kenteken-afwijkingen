@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-07T09:26:35Z",
+  "generated_at": "2026-08-08T08:59:54Z",
   "threshold": 0.3,
-  "count": 2792,
+  "count": 2795,
   "plates": [
     {
       "kenteken_norm": "ZN796H",
@@ -38,18 +38,6 @@
         "cilinderinhoud_per_cilinder"
       ],
       "catalog_price": 122868
-    },
-    {
-      "kenteken_norm": "L071VS",
-      "brand": "Man",
-      "model": "Lion",
-      "score": 0.009,
-      "flags": [
-        "massa",
-        "cilinderinhoud",
-        "cilinderinhoud_per_cilinder"
-      ],
-      "catalog_price": 313727
     },
     {
       "kenteken_norm": "P317HB",
@@ -5807,6 +5795,28 @@
         "bpm_te_laag"
       ],
       "catalog_price": 1685616
+    },
+    {
+      "kenteken_norm": "KSP33N",
+      "brand": "Volkswagen",
+      "model": "Polo",
+      "score": 0.09,
+      "flags": [
+        "catalogusprijs_afwijkend",
+        "bpm_te_laag"
+      ],
+      "catalog_price": 175268
+    },
+    {
+      "kenteken_norm": "KSR46S",
+      "brand": "Peugeot",
+      "model": "3008",
+      "score": 0.09,
+      "flags": [
+        "catalogusprijs_afwijkend",
+        "bpm_te_laag"
+      ],
+      "catalog_price": 456318
     },
     {
       "kenteken_norm": "L021VG",
@@ -21780,16 +21790,6 @@
       "catalog_price": 184779
     },
     {
-      "kenteken_norm": "KG597K",
-      "brand": "Volkswagen",
-      "model": "Golf",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 221876
-    },
-    {
       "kenteken_norm": "KGB16D",
       "brand": "Ford",
       "model": "Fiesta",
@@ -24220,6 +24220,16 @@
       "catalog_price": 173015
     },
     {
+      "kenteken_norm": "KSB54G",
+      "brand": "Audi",
+      "model": "A3",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 202004
+    },
+    {
       "kenteken_norm": "KSG37P",
       "brand": "Volkswagen",
       "model": "Up",
@@ -24358,6 +24368,26 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 186318
+    },
+    {
+      "kenteken_norm": "KSN80X",
+      "brand": "Volkswagen",
+      "model": "Golf",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 203431
+    },
+    {
+      "kenteken_norm": "KSR36S",
+      "brand": "Opel",
+      "model": "Corsa",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 178054
     },
     {
       "kenteken_norm": "KX462B",
