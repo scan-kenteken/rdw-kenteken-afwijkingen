@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-08T08:59:54Z",
+  "generated_at": "2026-08-10T09:12:14Z",
   "threshold": 0.3,
-  "count": 2795,
+  "count": 2798,
   "plates": [
     {
       "kenteken_norm": "ZN796H",
@@ -24380,6 +24380,16 @@
       "catalog_price": 203431
     },
     {
+      "kenteken_norm": "KSR07Z",
+      "brand": "Peugeot",
+      "model": "2008",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 189931
+    },
+    {
       "kenteken_norm": "KSR36S",
       "brand": "Opel",
       "model": "Corsa",
@@ -24388,6 +24398,26 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 178054
+    },
+    {
+      "kenteken_norm": "KSR46X",
+      "brand": "Volkswagen",
+      "model": "T-Cross",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 184822
+    },
+    {
+      "kenteken_norm": "KST44F",
+      "brand": "Volkswagen",
+      "model": "Golf",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 205320
     },
     {
       "kenteken_norm": "KX462B",
