@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-10T09:12:14Z",
+  "generated_at": "2026-08-12T09:03:10Z",
   "threshold": 0.3,
-  "count": 2798,
+  "count": 2790,
   "plates": [
     {
       "kenteken_norm": "ZN796H",
@@ -2717,17 +2717,6 @@
       "catalog_price": 174645
     },
     {
-      "kenteken_norm": "JF172S",
-      "brand": "Hyundai",
-      "model": "I20",
-      "score": 0.09,
-      "flags": [
-        "catalogusprijs_afwijkend",
-        "bpm_te_laag"
-      ],
-      "catalog_price": 1993334
-    },
-    {
       "kenteken_norm": "JFB03G",
       "brand": "Citroen",
       "model": "C3",
@@ -2770,17 +2759,6 @@
         "bpm_te_laag"
       ],
       "catalog_price": 184680
-    },
-    {
-      "kenteken_norm": "JFF80G",
-      "brand": "Renault",
-      "model": "Twingo",
-      "score": 0.09,
-      "flags": [
-        "catalogusprijs_afwijkend",
-        "bpm_te_laag"
-      ],
-      "catalog_price": 1462028
     },
     {
       "kenteken_norm": "JFG92X",
@@ -2913,17 +2891,6 @@
         "bpm_te_laag"
       ],
       "catalog_price": 225184
-    },
-    {
-      "kenteken_norm": "JHD71N",
-      "brand": "Bmw",
-      "model": "X1",
-      "score": 0.09,
-      "flags": [
-        "catalogusprijs_afwijkend",
-        "bpm_te_laag"
-      ],
-      "catalog_price": 2624687
     },
     {
       "kenteken_norm": "JHG04K",
@@ -8070,16 +8037,6 @@
       "catalog_price": 258599
     },
     {
-      "kenteken_norm": "H938XD",
-      "brand": "Kia",
-      "model": "Sportage",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 185396
-    },
-    {
       "kenteken_norm": "H959JX",
       "brand": "Toyota",
       "model": "Aygo",
@@ -10808,16 +10765,6 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 189342
-    },
-    {
-      "kenteken_norm": "HNZ15R",
-      "brand": "Kia",
-      "model": "Sportage",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 185083
     },
     {
       "kenteken_norm": "HPB17B",
@@ -14260,6 +14207,16 @@
       "catalog_price": 186722
     },
     {
+      "kenteken_norm": "J448KL",
+      "brand": "Dodge",
+      "model": "Viper",
+      "score": 0.1,
+      "flags": [
+        "cilinderinhoud"
+      ],
+      "catalog_price": 183686
+    },
+    {
       "kenteken_norm": "J468DV",
       "brand": "Porsche",
       "model": "Macan",
@@ -14428,16 +14385,6 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 176240
-    },
-    {
-      "kenteken_norm": "J814RZ",
-      "brand": "Bmw",
-      "model": "5 Serie",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 694324
     },
     {
       "kenteken_norm": "J814XZ",
@@ -14728,16 +14675,6 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 208729
-    },
-    {
-      "kenteken_norm": "JBP11J",
-      "brand": "Peugeot",
-      "model": "2008",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 187098
     },
     {
       "kenteken_norm": "JBP46V",
@@ -15640,26 +15577,6 @@
       "catalog_price": 174550
     },
     {
-      "kenteken_norm": "JFZ80J",
-      "brand": "Mini",
-      "model": "Cooper",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 2287868
-    },
-    {
-      "kenteken_norm": "JG502R",
-      "brand": "Bmw",
-      "model": "2 Serie",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 590134
-    },
-    {
       "kenteken_norm": "JGB35B",
       "brand": "Peugeot",
       "model": "2008",
@@ -15858,16 +15775,6 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 180756
-    },
-    {
-      "kenteken_norm": "JGR53B",
-      "brand": "Bmw",
-      "model": "Z4",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 741870
     },
     {
       "kenteken_norm": "JGR53P",
@@ -24218,6 +24125,16 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 173015
+    },
+    {
+      "kenteken_norm": "KSB34F",
+      "brand": "Peugeot",
+      "model": "108",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 174867
     },
     {
       "kenteken_norm": "KSB54G",
