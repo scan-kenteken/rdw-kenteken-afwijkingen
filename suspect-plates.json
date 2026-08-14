@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T09:00:52Z",
+  "generated_at": "2026-08-14T08:59:24Z",
   "threshold": 0.3,
   "count": 2790,
   "plates": [
@@ -9237,16 +9237,6 @@
       "catalog_price": 174018
     },
     {
-      "kenteken_norm": "HKG44X",
-      "brand": "Suzuki",
-      "model": "Sx4",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 194014
-    },
-    {
       "kenteken_norm": "HKH21K",
       "brand": "Volkswagen",
       "model": "Golf",
@@ -13397,6 +13387,16 @@
       "catalog_price": 188221
     },
     {
+      "kenteken_norm": "HXS07R",
+      "brand": "Ford",
+      "model": "Fusion",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 91090
+    },
+    {
       "kenteken_norm": "HXS69G",
       "brand": "Ford",
       "model": "Focus",
@@ -16057,16 +16057,6 @@
       "catalog_price": 196613
     },
     {
-      "kenteken_norm": "JHT05J",
-      "brand": "Volkswagen",
-      "model": "T-Roc",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 193334
-    },
-    {
       "kenteken_norm": "JHT47N",
       "brand": "Seat",
       "model": "Leon",
@@ -16787,16 +16777,6 @@
       "catalog_price": 195304
     },
     {
-      "kenteken_norm": "JKX64D",
-      "brand": "Tesla",
-      "model": "Model 3",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 508098
-    },
-    {
       "kenteken_norm": "JKZ45J",
       "brand": "Hyundai",
       "model": "Kona",
@@ -16945,16 +16925,6 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 189907
-    },
-    {
-      "kenteken_norm": "JLH29S",
-      "brand": "Mini",
-      "model": "Cooper",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 3784000
     },
     {
       "kenteken_norm": "JLH30V",
@@ -22107,16 +22077,6 @@
       "catalog_price": 188596
     },
     {
-      "kenteken_norm": "KHG18T",
-      "brand": "Renault",
-      "model": "Captur",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 193664
-    },
-    {
       "kenteken_norm": "KHG45Z",
       "brand": "Toyota",
       "model": "Yaris",
@@ -23487,16 +23447,6 @@
       "catalog_price": 179625
     },
     {
-      "kenteken_norm": "KPL14K",
-      "brand": "Citroen",
-      "model": "C5",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 293059
-    },
-    {
       "kenteken_norm": "KPN36N",
       "brand": "Toyota",
       "model": "Prius",
@@ -24335,6 +24285,66 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 205320
+    },
+    {
+      "kenteken_norm": "KSV67P",
+      "brand": "Seat",
+      "model": "Leon",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 194201
+    },
+    {
+      "kenteken_norm": "KSX71S",
+      "brand": "Volkswagen",
+      "model": "Polo",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 188216
+    },
+    {
+      "kenteken_norm": "KSZ45B",
+      "brand": "Renault",
+      "model": "Captur",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 184873
+    },
+    {
+      "kenteken_norm": "KSZ69B",
+      "brand": "Suzuki",
+      "model": "Swift",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 180789
+    },
+    {
+      "kenteken_norm": "KTB09V",
+      "brand": "Ford",
+      "model": "Fiesta",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 179575
+    },
+    {
+      "kenteken_norm": "KTB85B",
+      "brand": "Kia",
+      "model": "Niro",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 4696999
     },
     {
       "kenteken_norm": "KX462B",
@@ -26905,16 +26915,6 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 112987
-    },
-    {
-      "kenteken_norm": "TT722J",
-      "brand": "Volkswagen",
-      "model": "T-Roc",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 193336
     },
     {
       "kenteken_norm": "TV098D",
