@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-14T08:59:24Z",
+  "generated_at": "2026-08-15T09:02:58Z",
   "threshold": 0.3,
-  "count": 2790,
+  "count": 2787,
   "plates": [
     {
       "kenteken_norm": "ZN796H",
@@ -3311,17 +3311,6 @@
       "catalog_price": 177987
     },
     {
-      "kenteken_norm": "JNB63J",
-      "brand": "Lexus",
-      "model": "Lbx",
-      "score": 0.09,
-      "flags": [
-        "catalogusprijs_afwijkend",
-        "bpm_te_laag"
-      ],
-      "catalog_price": 3447308
-    },
-    {
       "kenteken_norm": "JNB98P",
       "brand": "Peugeot",
       "model": "208",
@@ -3342,17 +3331,6 @@
         "bpm_te_laag"
       ],
       "catalog_price": 188197
-    },
-    {
-      "kenteken_norm": "JND42R",
-      "brand": "Volkswagen",
-      "model": "Caddy",
-      "score": 0.09,
-      "flags": [
-        "catalogusprijs_afwijkend",
-        "bpm_te_laag"
-      ],
-      "catalog_price": 3779921
     },
     {
       "kenteken_norm": "JNH35K",
@@ -3463,17 +3441,6 @@
         "bpm_te_laag"
       ],
       "catalog_price": 193066
-    },
-    {
-      "kenteken_norm": "JPK95Z",
-      "brand": "Volkswagen",
-      "model": "Up",
-      "score": 0.09,
-      "flags": [
-        "catalogusprijs_afwijkend",
-        "bpm_te_laag"
-      ],
-      "catalog_price": 1579134
     },
     {
       "kenteken_norm": "JPL01B",
@@ -4365,17 +4332,6 @@
         "bpm_te_laag"
       ],
       "catalog_price": 181152
-    },
-    {
-      "kenteken_norm": "K320DJ",
-      "brand": "Volkswagen",
-      "model": "Up",
-      "score": 0.09,
-      "flags": [
-        "catalogusprijs_afwijkend",
-        "bpm_te_laag"
-      ],
-      "catalog_price": 1349293
     },
     {
       "kenteken_norm": "K926BZ",
@@ -5784,6 +5740,17 @@
         "bpm_te_laag"
       ],
       "catalog_price": 456318
+    },
+    {
+      "kenteken_norm": "KTD13N",
+      "brand": "Bmw",
+      "model": "M5",
+      "score": 0.09,
+      "flags": [
+        "catalogusprijs_afwijkend",
+        "bpm_te_laag"
+      ],
+      "catalog_price": 1694797
     },
     {
       "kenteken_norm": "L021VG",
@@ -17227,16 +17194,6 @@
       "catalog_price": 191248
     },
     {
-      "kenteken_norm": "JND64P",
-      "brand": "Bmw",
-      "model": "X3",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 644888
-    },
-    {
       "kenteken_norm": "JNF12G",
       "brand": "Toyota",
       "model": "Yaris",
@@ -24295,6 +24252,16 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 194201
+    },
+    {
+      "kenteken_norm": "KSX30G",
+      "brand": "Fiat",
+      "model": "500",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 179154
     },
     {
       "kenteken_norm": "KSX71S",
