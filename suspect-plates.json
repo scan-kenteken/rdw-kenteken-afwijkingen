@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-15T09:02:58Z",
+  "generated_at": "2026-08-17T12:44:55Z",
   "threshold": 0.3,
-  "count": 2787,
+  "count": 2792,
   "plates": [
     {
       "kenteken_norm": "ZN796H",
@@ -207,6 +207,17 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 238086
+    },
+    {
+      "kenteken_norm": "KTF46T",
+      "brand": "Morelo",
+      "model": "Palace",
+      "score": 0.03,
+      "flags": [
+        "massa",
+        "cilinderinhoud"
+      ],
+      "catalog_price": 146561
     },
     {
       "kenteken_norm": "L027BL",
@@ -24312,6 +24323,46 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 4696999
+    },
+    {
+      "kenteken_norm": "KTF16N",
+      "brand": "Volkswagen",
+      "model": "T-Cross",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 189057
+    },
+    {
+      "kenteken_norm": "KTF16P",
+      "brand": "Ford",
+      "model": "Fiesta",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 188886
+    },
+    {
+      "kenteken_norm": "KTF45L",
+      "brand": "Ford",
+      "model": "Fiesta",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 181173
+    },
+    {
+      "kenteken_norm": "KTF61K",
+      "brand": "Peugeot",
+      "model": "2008",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 194116
     },
     {
       "kenteken_norm": "KX462B",
