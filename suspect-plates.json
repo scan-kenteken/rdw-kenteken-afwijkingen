@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-17T12:44:55Z",
+  "generated_at": "2026-08-19T10:11:35Z",
   "threshold": 0.3,
-  "count": 2792,
+  "count": 2791,
   "plates": [
     {
       "kenteken_norm": "ZN796H",
@@ -5379,17 +5379,6 @@
       "catalog_price": 176342
     },
     {
-      "kenteken_norm": "KLV01H",
-      "brand": "Volkswagen",
-      "model": "Up",
-      "score": 0.09,
-      "flags": [
-        "catalogusprijs_afwijkend",
-        "bpm_te_laag"
-      ],
-      "catalog_price": 175078
-    },
-    {
       "kenteken_norm": "KLV42H",
       "brand": "Renault",
       "model": "Clio",
@@ -5872,17 +5861,6 @@
         "bpm_te_laag"
       ],
       "catalog_price": 390000
-    },
-    {
-      "kenteken_norm": "N420JK",
-      "brand": "Volkswagen",
-      "model": "Golf",
-      "score": 0.09,
-      "flags": [
-        "catalogusprijs_afwijkend",
-        "bpm_te_laag"
-      ],
-      "catalog_price": 3463243
     },
     {
       "kenteken_norm": "N542HG",
@@ -22585,16 +22563,6 @@
       "catalog_price": 116935
     },
     {
-      "kenteken_norm": "KJZ18V",
-      "brand": "Toyota",
-      "model": "C-Hr",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 194404
-    },
-    {
       "kenteken_norm": "KJZ65Z",
       "brand": "Ford",
       "model": "Focus",
@@ -24325,6 +24293,16 @@
       "catalog_price": 4696999
     },
     {
+      "kenteken_norm": "KTF08X",
+      "brand": "Citroen",
+      "model": "C1",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 178880
+    },
+    {
       "kenteken_norm": "KTF16N",
       "brand": "Volkswagen",
       "model": "T-Cross",
@@ -24363,6 +24341,46 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 194116
+    },
+    {
+      "kenteken_norm": "KTF68V",
+      "brand": "Peugeot",
+      "model": "208",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 190598
+    },
+    {
+      "kenteken_norm": "KTG52X",
+      "brand": "Mercedes-Benz",
+      "model": "A-Klasse",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 197967
+    },
+    {
+      "kenteken_norm": "KTG62X",
+      "brand": "Toyota",
+      "model": "Aygo",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 181381
+    },
+    {
+      "kenteken_norm": "KTG87J",
+      "brand": "Renault",
+      "model": "Scenic",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 189077
     },
     {
       "kenteken_norm": "KX462B",
@@ -24443,16 +24461,6 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 362883
-    },
-    {
-      "kenteken_norm": "L170KP",
-      "brand": "Tesla",
-      "model": "Model 3",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 571691
     },
     {
       "kenteken_norm": "L191NX",
@@ -24633,16 +24641,6 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 183720
-    },
-    {
-      "kenteken_norm": "L513KN",
-      "brand": "Volkswagen",
-      "model": "Polo",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 1841001
     },
     {
       "kenteken_norm": "L522LG",
@@ -25083,16 +25081,6 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 183153
-    },
-    {
-      "kenteken_norm": "N770TS",
-      "brand": "Hyundai",
-      "model": "Ioniq5",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 762300
     },
     {
       "kenteken_norm": "N801BB",
