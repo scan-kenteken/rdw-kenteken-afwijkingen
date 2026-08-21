@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-19T10:11:35Z",
+  "generated_at": "2026-08-21T09:14:18Z",
   "threshold": 0.3,
-  "count": 2791,
+  "count": 2793,
   "plates": [
     {
       "kenteken_norm": "ZN796H",
@@ -62,6 +62,18 @@
         "cilinderinhoud_per_cilinder"
       ],
       "catalog_price": 178810
+    },
+    {
+      "kenteken_norm": "Z461FV",
+      "brand": "Morelo",
+      "model": "Grand",
+      "score": 0.009,
+      "flags": [
+        "massa",
+        "cilinderinhoud",
+        "cilinderinhoud_per_cilinder"
+      ],
+      "catalog_price": 174764
     },
     {
       "kenteken_norm": "ZG119Z",
@@ -5753,6 +5765,50 @@
       "catalog_price": 1694797
     },
     {
+      "kenteken_norm": "KTH67P",
+      "brand": "Suzuki",
+      "model": "Vitara",
+      "score": 0.09,
+      "flags": [
+        "catalogusprijs_afwijkend",
+        "bpm_te_laag"
+      ],
+      "catalog_price": 3876886
+    },
+    {
+      "kenteken_norm": "KTJ61J",
+      "brand": "Toyota",
+      "model": "Yaris",
+      "score": 0.09,
+      "flags": [
+        "catalogusprijs_afwijkend",
+        "bpm_te_laag"
+      ],
+      "catalog_price": 1869637
+    },
+    {
+      "kenteken_norm": "KTK71F",
+      "brand": "Seat",
+      "model": "Tarraco",
+      "score": 0.09,
+      "flags": [
+        "catalogusprijs_afwijkend",
+        "bpm_te_laag"
+      ],
+      "catalog_price": 465997
+    },
+    {
+      "kenteken_norm": "KTN08H",
+      "brand": "Lexus",
+      "model": "Rc300h",
+      "score": 0.09,
+      "flags": [
+        "catalogusprijs_afwijkend",
+        "bpm_te_laag"
+      ],
+      "catalog_price": 5772650
+    },
+    {
       "kenteken_norm": "L021VG",
       "brand": "Suzuki",
       "model": "Vitara",
@@ -5885,17 +5941,6 @@
       "catalog_price": 183012
     },
     {
-      "kenteken_norm": "NK547L",
-      "brand": "Volkswagen",
-      "model": "Passat",
-      "score": 0.09,
-      "flags": [
-        "catalogusprijs_afwijkend",
-        "bpm_te_laag"
-      ],
-      "catalog_price": 7777777
-    },
-    {
       "kenteken_norm": "NR566V",
       "brand": "Fiat",
       "model": "500",
@@ -5927,28 +5972,6 @@
         "bpm_te_laag"
       ],
       "catalog_price": 390000
-    },
-    {
-      "kenteken_norm": "P114PD",
-      "brand": "Bmw",
-      "model": "X5",
-      "score": 0.09,
-      "flags": [
-        "catalogusprijs_afwijkend",
-        "bpm_te_laag"
-      ],
-      "catalog_price": 1080913
-    },
-    {
-      "kenteken_norm": "R167XB",
-      "brand": "Hyundai",
-      "model": "Kona",
-      "score": 0.09,
-      "flags": [
-        "catalogusprijs_afwijkend",
-        "bpm_te_laag"
-      ],
-      "catalog_price": 3088701
     },
     {
       "kenteken_norm": "R450PK",
@@ -6004,17 +6027,6 @@
         "bpm_te_laag"
       ],
       "catalog_price": 275461
-    },
-    {
-      "kenteken_norm": "S249FX",
-      "brand": "Renault",
-      "model": "Clio",
-      "score": 0.09,
-      "flags": [
-        "catalogusprijs_afwijkend",
-        "bpm_te_laag"
-      ],
-      "catalog_price": 1926114
     },
     {
       "kenteken_norm": "S315JH",
@@ -17003,16 +17015,6 @@
       "catalog_price": 195500
     },
     {
-      "kenteken_norm": "JLP01S",
-      "brand": "Hyundai",
-      "model": "I30",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 202058
-    },
-    {
       "kenteken_norm": "JLP25S",
       "brand": "Volkswagen",
       "model": "Touran",
@@ -24383,6 +24385,76 @@
       "catalog_price": 189077
     },
     {
+      "kenteken_norm": "KTH50K",
+      "brand": "Ford",
+      "model": "Focus",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 187118
+    },
+    {
+      "kenteken_norm": "KTH63R",
+      "brand": "Seat",
+      "model": "Ibiza",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 188118
+    },
+    {
+      "kenteken_norm": "KTJ87J",
+      "brand": "Citroen",
+      "model": "C4",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 189050
+    },
+    {
+      "kenteken_norm": "KTK15F",
+      "brand": "Hyundai",
+      "model": "I20",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 180047
+    },
+    {
+      "kenteken_norm": "KTK55J",
+      "brand": "Ford",
+      "model": "Fiesta",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 182787
+    },
+    {
+      "kenteken_norm": "KTL49H",
+      "brand": "Volkswagen",
+      "model": "Golf",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 194409
+    },
+    {
+      "kenteken_norm": "KTN53G",
+      "brand": "Ford",
+      "model": "Focus",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 169052
+    },
+    {
       "kenteken_norm": "KX462B",
       "brand": "Nissan",
       "model": "Note",
@@ -25323,16 +25395,6 @@
       "catalog_price": 199364
     },
     {
-      "kenteken_norm": "P310DG",
-      "brand": "Renault",
-      "model": "Twingo",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 577705
-    },
-    {
       "kenteken_norm": "P313JT",
       "brand": "Volkswagen",
       "model": "T-Roc",
@@ -25653,16 +25715,6 @@
       "catalog_price": 564258
     },
     {
-      "kenteken_norm": "R022XL",
-      "brand": "Bmw",
-      "model": "X3",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 764799
-    },
-    {
       "kenteken_norm": "R054ZT",
       "brand": "Volkswagen",
       "model": "Tiguan",
@@ -25741,16 +25793,6 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 199087
-    },
-    {
-      "kenteken_norm": "R204XZ",
-      "brand": "Land Rover",
-      "model": "Range Rover Evoque",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 621437
     },
     {
       "kenteken_norm": "R222KB",
@@ -25953,16 +25995,6 @@
       "catalog_price": 287416
     },
     {
-      "kenteken_norm": "R736KT",
-      "brand": "Peugeot",
-      "model": "Rifter",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 2959102
-    },
-    {
       "kenteken_norm": "R745KV",
       "brand": "Citroen",
       "model": "C3",
@@ -26011,16 +26043,6 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 200042
-    },
-    {
-      "kenteken_norm": "R833PS",
-      "brand": "Bmw",
-      "model": "3 Serie",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 561176
     },
     {
       "kenteken_norm": "R842XB",
