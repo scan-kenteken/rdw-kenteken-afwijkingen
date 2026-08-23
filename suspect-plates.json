@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-21T09:14:18Z",
+  "generated_at": "2026-08-22T09:24:52Z",
   "threshold": 0.3,
-  "count": 2793,
+  "count": 2794,
   "plates": [
     {
       "kenteken_norm": "ZN796H",
@@ -23665,16 +23665,6 @@
       "catalog_price": 174118
     },
     {
-      "kenteken_norm": "KRD47R",
-      "brand": "Volkswagen",
-      "model": "T-Cross",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 374244
-    },
-    {
       "kenteken_norm": "KRD83S",
       "brand": "Toyota",
       "model": "C-Hr",
@@ -24003,6 +23993,16 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 189595
+    },
+    {
+      "kenteken_norm": "KRZ18R",
+      "brand": "Renault",
+      "model": "Captur",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 185378
     },
     {
       "kenteken_norm": "KS743T",
@@ -24453,6 +24453,26 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 169052
+    },
+    {
+      "kenteken_norm": "KTN94T",
+      "brand": "Renault",
+      "model": "Twingo",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 172489
+    },
+    {
+      "kenteken_norm": "KTP65S",
+      "brand": "Volkswagen",
+      "model": "T-Cross",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 197109
     },
     {
       "kenteken_norm": "KX462B",
@@ -26573,16 +26593,6 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 179902
-    },
-    {
-      "kenteken_norm": "T305PN",
-      "brand": "Land Rover",
-      "model": "Range Rover Evoque",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 529452
     },
     {
       "kenteken_norm": "T330PK",
