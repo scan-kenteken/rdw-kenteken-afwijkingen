@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-22T09:24:52Z",
+  "generated_at": "2026-08-26T09:24:33Z",
   "threshold": 0.3,
-  "count": 2794,
+  "count": 2793,
   "plates": [
     {
       "kenteken_norm": "ZN796H",
@@ -6139,17 +6139,6 @@
       "catalog_price": 188065
     },
     {
-      "kenteken_norm": "T689VH",
-      "brand": "Bmw",
-      "model": "X5",
-      "score": 0.09,
-      "flags": [
-        "catalogusprijs_afwijkend",
-        "bpm_te_laag"
-      ],
-      "catalog_price": 1152661
-    },
-    {
       "kenteken_norm": "T691LB",
       "brand": "Peugeot",
       "model": "208",
@@ -6181,17 +6170,6 @@
         "bpm_te_laag"
       ],
       "catalog_price": 192559
-    },
-    {
-      "kenteken_norm": "T875SH",
-      "brand": "Suzuki",
-      "model": "S-Cross",
-      "score": 0.09,
-      "flags": [
-        "catalogusprijs_afwijkend",
-        "bpm_te_laag"
-      ],
-      "catalog_price": 3590392
     },
     {
       "kenteken_norm": "T914BK",
@@ -24475,6 +24453,36 @@
       "catalog_price": 197109
     },
     {
+      "kenteken_norm": "KTR21J",
+      "brand": "Skoda",
+      "model": "Fabia",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 173396
+    },
+    {
+      "kenteken_norm": "KTR65B",
+      "brand": "Peugeot",
+      "model": "108",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 188148
+    },
+    {
+      "kenteken_norm": "KTR80H",
+      "brand": "Citroen",
+      "model": "C3",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 186680
+    },
+    {
       "kenteken_norm": "KX462B",
       "brand": "Nissan",
       "model": "Note",
@@ -26595,16 +26603,6 @@
       "catalog_price": 179902
     },
     {
-      "kenteken_norm": "T330PK",
-      "brand": "Tesla",
-      "model": "Model Y",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 7500001
-    },
-    {
       "kenteken_norm": "T337DT",
       "brand": "Renault",
       "model": "Zoe",
@@ -26753,16 +26751,6 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 189696
-    },
-    {
-      "kenteken_norm": "T776TF",
-      "brand": "Alfa Romeo",
-      "model": "Mito",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 1867942
     },
     {
       "kenteken_norm": "T845LZ",
