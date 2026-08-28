@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-26T09:24:33Z",
+  "generated_at": "2026-08-28T09:50:10Z",
   "threshold": 0.3,
-  "count": 2793,
+  "count": 2805,
   "plates": [
     {
       "kenteken_norm": "ZN796H",
@@ -10253,16 +10253,6 @@
       "catalog_price": 134904
     },
     {
-      "kenteken_norm": "HNB38V",
-      "brand": "Volkswagen",
-      "model": "T-Roc",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 193456
-    },
-    {
       "kenteken_norm": "HNB85P",
       "brand": "Toyota",
       "model": "Yaris",
@@ -18923,16 +18913,6 @@
       "catalog_price": 189875
     },
     {
-      "kenteken_norm": "JVZ38G",
-      "brand": "Volkswagen",
-      "model": "T-Roc",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 193449
-    },
-    {
       "kenteken_norm": "JVZ78K",
       "brand": "Hyundai",
       "model": "I20",
@@ -24481,6 +24461,146 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 186680
+    },
+    {
+      "kenteken_norm": "KTT84F",
+      "brand": "Peugeot",
+      "model": "208",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 186115
+    },
+    {
+      "kenteken_norm": "KTV03D",
+      "brand": "Volkswagen",
+      "model": "Golf",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 188716
+    },
+    {
+      "kenteken_norm": "KTV04R",
+      "brand": "Peugeot",
+      "model": "208",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 188301
+    },
+    {
+      "kenteken_norm": "KTV17V",
+      "brand": "Volkswagen",
+      "model": "Caddy",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 185441
+    },
+    {
+      "kenteken_norm": "KTV25S",
+      "brand": "Volkswagen",
+      "model": "Polo",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 180920
+    },
+    {
+      "kenteken_norm": "KTV36Z",
+      "brand": "Kia",
+      "model": "Ceed",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 346275
+    },
+    {
+      "kenteken_norm": "KTV61D",
+      "brand": "Ford",
+      "model": "Fiesta",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 187786
+    },
+    {
+      "kenteken_norm": "KTV71N",
+      "brand": "Toyota",
+      "model": "Verso",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 505809
+    },
+    {
+      "kenteken_norm": "KTX44V",
+      "brand": "Volkswagen",
+      "model": "T-Roc",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 2435817
+    },
+    {
+      "kenteken_norm": "KTX51D",
+      "brand": "Peugeot",
+      "model": "208",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 185165
+    },
+    {
+      "kenteken_norm": "KTX91S",
+      "brand": "Suzuki",
+      "model": "Ignis",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 173581
+    },
+    {
+      "kenteken_norm": "KVB44N",
+      "brand": "Renault",
+      "model": "Clio",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 176039
+    },
+    {
+      "kenteken_norm": "KVB71N",
+      "brand": "Kia",
+      "model": "Picanto",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 185706
+    },
+    {
+      "kenteken_norm": "KVB76N",
+      "brand": "Audi",
+      "model": "A1",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 212300
     },
     {
       "kenteken_norm": "KX462B",
