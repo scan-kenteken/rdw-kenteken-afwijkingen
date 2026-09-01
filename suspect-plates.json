@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-29T09:05:25Z",
+  "generated_at": "2026-09-01T10:48:40Z",
   "threshold": 0.3,
-  "count": 2805,
+  "count": 2809,
   "plates": [
     {
       "kenteken_norm": "ZN796H",
@@ -230,6 +230,17 @@
         "cilinderinhoud"
       ],
       "catalog_price": 146561
+    },
+    {
+      "kenteken_norm": "KVF41G",
+      "brand": "Morelo",
+      "model": "Palace",
+      "score": 0.03,
+      "flags": [
+        "massa",
+        "cilinderinhoud"
+      ],
+      "catalog_price": 101142
     },
     {
       "kenteken_norm": "L027BL",
@@ -5644,6 +5655,17 @@
       "catalog_price": 4149744
     },
     {
+      "kenteken_norm": "KRN33V",
+      "brand": "Volkswagen",
+      "model": "Passat",
+      "score": 0.09,
+      "flags": [
+        "catalogusprijs_afwijkend",
+        "bpm_te_laag"
+      ],
+      "catalog_price": 667940
+    },
+    {
       "kenteken_norm": "KRN44J",
       "brand": "Renault",
       "model": "Clio",
@@ -5807,6 +5829,17 @@
         "bpm_te_laag"
       ],
       "catalog_price": 5772650
+    },
+    {
+      "kenteken_norm": "KVD79R",
+      "brand": "Kia",
+      "model": "Ceed",
+      "score": 0.09,
+      "flags": [
+        "catalogusprijs_afwijkend",
+        "bpm_te_laag"
+      ],
+      "catalog_price": 3431290
     },
     {
       "kenteken_norm": "L021VG",
@@ -13113,16 +13146,6 @@
       "catalog_price": 178532
     },
     {
-      "kenteken_norm": "HXJ17J",
-      "brand": "Volkswagen",
-      "model": "T-Roc",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 193476
-    },
-    {
       "kenteken_norm": "HXJ37F",
       "brand": "Renault",
       "model": "Captur",
@@ -18011,16 +18034,6 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 190343
-    },
-    {
-      "kenteken_norm": "JSK78N",
-      "brand": "Volkswagen",
-      "model": "T-Roc",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 193466
     },
     {
       "kenteken_norm": "JSK80P",
@@ -24493,6 +24506,16 @@
       "catalog_price": 188301
     },
     {
+      "kenteken_norm": "KTV07D",
+      "brand": "Volkswagen",
+      "model": "Up",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 177125
+    },
+    {
       "kenteken_norm": "KTV17V",
       "brand": "Volkswagen",
       "model": "Caddy",
@@ -24601,6 +24624,26 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 212300
+    },
+    {
+      "kenteken_norm": "KVF22G",
+      "brand": "Toyota",
+      "model": "C-Hr",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 192508
+    },
+    {
+      "kenteken_norm": "KVF92G",
+      "brand": "Mitsubishi",
+      "model": "Space Star",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 175803
     },
     {
       "kenteken_norm": "KX462B",
