@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-01T10:48:40Z",
+  "generated_at": "2026-09-02T09:25:51Z",
   "threshold": 0.3,
-  "count": 2809,
+  "count": 2814,
   "plates": [
     {
       "kenteken_norm": "ZN796H",
@@ -10286,6 +10286,16 @@
       "catalog_price": 134904
     },
     {
+      "kenteken_norm": "HNB38V",
+      "brand": "Volkswagen",
+      "model": "T-Roc",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 193456
+    },
+    {
       "kenteken_norm": "HNB85P",
       "brand": "Toyota",
       "model": "Yaris",
@@ -11094,16 +11104,6 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 191270
-    },
-    {
-      "kenteken_norm": "HPP77V",
-      "brand": "Volkswagen",
-      "model": "Up",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 180578
     },
     {
       "kenteken_norm": "HPR14N",
@@ -13144,6 +13144,16 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 178532
+    },
+    {
+      "kenteken_norm": "HXJ17J",
+      "brand": "Volkswagen",
+      "model": "T-Roc",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 193476
     },
     {
       "kenteken_norm": "HXJ37F",
@@ -18034,6 +18044,16 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 190343
+    },
+    {
+      "kenteken_norm": "JSK78N",
+      "brand": "Volkswagen",
+      "model": "T-Roc",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 193466
     },
     {
       "kenteken_norm": "JSK80P",
@@ -24644,6 +24664,36 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 175803
+    },
+    {
+      "kenteken_norm": "KVG73P",
+      "brand": "Citroen",
+      "model": "Berlingo",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 188399
+    },
+    {
+      "kenteken_norm": "KVH28J",
+      "brand": "Volkswagen",
+      "model": "Touran",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 195366
+    },
+    {
+      "kenteken_norm": "KVH78H",
+      "brand": "Ford",
+      "model": "Fiesta",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 188787
     },
     {
       "kenteken_norm": "KX462B",
