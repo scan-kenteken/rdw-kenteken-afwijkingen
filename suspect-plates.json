@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-02T09:25:51Z",
+  "generated_at": "2026-09-03T11:52:25Z",
   "threshold": 0.3,
-  "count": 2814,
+  "count": 2820,
   "plates": [
     {
       "kenteken_norm": "ZN796H",
@@ -62,6 +62,18 @@
         "cilinderinhoud_per_cilinder"
       ],
       "catalog_price": 178810
+    },
+    {
+      "kenteken_norm": "S789PD",
+      "brand": "Mercedes-Benz",
+      "model": "Actros",
+      "score": 0.009,
+      "flags": [
+        "massa",
+        "cilinderinhoud",
+        "cilinderinhoud_per_cilinder"
+      ],
+      "catalog_price": 89592
     },
     {
       "kenteken_norm": "Z461FV",
@@ -5842,6 +5854,17 @@
       "catalog_price": 3431290
     },
     {
+      "kenteken_norm": "KVK27F",
+      "brand": "Seat",
+      "model": "Leon",
+      "score": 0.09,
+      "flags": [
+        "catalogusprijs_afwijkend",
+        "bpm_te_laag"
+      ],
+      "catalog_price": 1660702
+    },
+    {
       "kenteken_norm": "L021VG",
       "brand": "Suzuki",
       "model": "Vitara",
@@ -10286,16 +10309,6 @@
       "catalog_price": 134904
     },
     {
-      "kenteken_norm": "HNB38V",
-      "brand": "Volkswagen",
-      "model": "T-Roc",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 193456
-    },
-    {
       "kenteken_norm": "HNB85P",
       "brand": "Toyota",
       "model": "Yaris",
@@ -13144,16 +13157,6 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 178532
-    },
-    {
-      "kenteken_norm": "HXJ17J",
-      "brand": "Volkswagen",
-      "model": "T-Roc",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 193476
     },
     {
       "kenteken_norm": "HXJ37F",
@@ -18044,16 +18047,6 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 190343
-    },
-    {
-      "kenteken_norm": "JSK78N",
-      "brand": "Volkswagen",
-      "model": "T-Roc",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 193466
     },
     {
       "kenteken_norm": "JSK80P",
@@ -24694,6 +24687,76 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 188787
+    },
+    {
+      "kenteken_norm": "KVJ80H",
+      "brand": "Dacia",
+      "model": "Duster",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 300601
+    },
+    {
+      "kenteken_norm": "KVJ90F",
+      "brand": "Skoda",
+      "model": "Kamiq",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 328284
+    },
+    {
+      "kenteken_norm": "KVK41D",
+      "brand": "Seat",
+      "model": "Leon",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 190947
+    },
+    {
+      "kenteken_norm": "KVK57R",
+      "brand": "Volkswagen",
+      "model": "Up",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 176400
+    },
+    {
+      "kenteken_norm": "KVK62D",
+      "brand": "Skoda",
+      "model": "Octavia",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 213924
+    },
+    {
+      "kenteken_norm": "KVK64D",
+      "brand": "Seat",
+      "model": "Leon",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 204833
+    },
+    {
+      "kenteken_norm": "KVL53J",
+      "brand": "Lexus",
+      "model": "Ct200h",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 188872
     },
     {
       "kenteken_norm": "KX462B",
