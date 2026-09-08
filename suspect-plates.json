@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-03T11:52:25Z",
+  "generated_at": "2026-09-08T12:51:38Z",
   "threshold": 0.3,
-  "count": 2820,
+  "count": 2827,
   "plates": [
     {
       "kenteken_norm": "ZN796H",
@@ -10417,16 +10417,6 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 177136
-    },
-    {
-      "kenteken_norm": "HNH70L",
-      "brand": "Volkswagen",
-      "model": "T-Roc",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 193490
     },
     {
       "kenteken_norm": "HNH71L",
@@ -20939,16 +20929,6 @@
       "catalog_price": 196690
     },
     {
-      "kenteken_norm": "KDT56B",
-      "brand": "Volkswagen",
-      "model": "T-Roc",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 193512
-    },
-    {
       "kenteken_norm": "KDT57B",
       "brand": "Volkswagen",
       "model": "T-Roc",
@@ -23839,6 +23819,16 @@
       "catalog_price": 1215049
     },
     {
+      "kenteken_norm": "KRN82G",
+      "brand": "Toyota",
+      "model": "Aygo",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 182786
+    },
+    {
       "kenteken_norm": "KRP83R",
       "brand": "Ford",
       "model": "Transit",
@@ -24749,6 +24739,16 @@
       "catalog_price": 204833
     },
     {
+      "kenteken_norm": "KVL38V",
+      "brand": "Kia",
+      "model": "Rio",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 186261
+    },
+    {
       "kenteken_norm": "KVL53J",
       "brand": "Lexus",
       "model": "Ct200h",
@@ -24757,6 +24757,76 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 188872
+    },
+    {
+      "kenteken_norm": "KVN05R",
+      "brand": "Honda",
+      "model": "Civic",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 189340
+    },
+    {
+      "kenteken_norm": "KVN42D",
+      "brand": "Toyota",
+      "model": "Yaris",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 185091
+    },
+    {
+      "kenteken_norm": "KVR36H",
+      "brand": "Mini",
+      "model": "One",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 189886
+    },
+    {
+      "kenteken_norm": "KVR45R",
+      "brand": "Kia",
+      "model": "Ev6",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 5568420
+    },
+    {
+      "kenteken_norm": "KVR53P",
+      "brand": "Hyundai",
+      "model": "I20",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 178352
+    },
+    {
+      "kenteken_norm": "KVR54P",
+      "brand": "Opel",
+      "model": "Crossland",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 177555
+    },
+    {
+      "kenteken_norm": "KVR75P",
+      "brand": "Citroen",
+      "model": "Berlingo",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 198168
     },
     {
       "kenteken_norm": "KX462B",
