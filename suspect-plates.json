@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-08T12:51:38Z",
+  "generated_at": "2026-09-10T10:18:39Z",
   "threshold": 0.3,
-  "count": 2827,
+  "count": 2823,
   "plates": [
     {
       "kenteken_norm": "ZN796H",
@@ -6327,17 +6327,6 @@
       "catalog_price": 345349
     },
     {
-      "kenteken_norm": "X199VZ",
-      "brand": "Volkswagen",
-      "model": "Polo",
-      "score": 0.09,
-      "flags": [
-        "catalogusprijs_afwijkend",
-        "bpm_te_laag"
-      ],
-      "catalog_price": 1496844
-    },
-    {
       "kenteken_norm": "X294GX",
       "brand": "Cupra",
       "model": "Formentor",
@@ -6446,17 +6435,6 @@
         "bpm_te_laag"
       ],
       "catalog_price": 187270
-    },
-    {
-      "kenteken_norm": "XL608G",
-      "brand": "Seat",
-      "model": "Ibiza",
-      "score": 0.09,
-      "flags": [
-        "catalogusprijs_afwijkend",
-        "bpm_te_laag"
-      ],
-      "catalog_price": 2234479
     },
     {
       "kenteken_norm": "XL693K",
@@ -27379,16 +27357,6 @@
       "catalog_price": 280496
     },
     {
-      "kenteken_norm": "X313DF",
-      "brand": "Volvo",
-      "model": "Xc40",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 3586017
-    },
-    {
       "kenteken_norm": "X315TF",
       "brand": "Volkswagen",
       "model": "Golf",
@@ -27457,16 +27425,6 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 145535
-    },
-    {
-      "kenteken_norm": "X626GT",
-      "brand": "Peugeot",
-      "model": "3008",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 5092653
     },
     {
       "kenteken_norm": "X755BX",
