@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-10T10:18:39Z",
+  "generated_at": "2026-09-11T11:04:23Z",
   "threshold": 0.3,
-  "count": 2823,
+  "count": 2822,
   "plates": [
     {
       "kenteken_norm": "ZN796H",
@@ -1344,17 +1344,6 @@
       "catalog_price": 172872
     },
     {
-      "kenteken_norm": "HNB22G",
-      "brand": "Mercedes-Benz",
-      "model": "C-Klasse",
-      "score": 0.09,
-      "flags": [
-        "catalogusprijs_afwijkend",
-        "bpm_te_laag"
-      ],
-      "catalog_price": 4748175
-    },
-    {
       "kenteken_norm": "HNB80V",
       "brand": "Volkswagen",
       "model": "Polo",
@@ -2354,17 +2343,6 @@
         "bpm_te_laag"
       ],
       "catalog_price": 195269
-    },
-    {
-      "kenteken_norm": "HXZ70H",
-      "brand": "Toyota",
-      "model": "Yaris",
-      "score": 0.09,
-      "flags": [
-        "catalogusprijs_afwijkend",
-        "bpm_te_laag"
-      ],
-      "catalog_price": 196655
     },
     {
       "kenteken_norm": "HZF54X",
@@ -6558,17 +6536,6 @@
       "catalog_price": 135754
     },
     {
-      "kenteken_norm": "Z805BG",
-      "brand": "Volkswagen",
-      "model": "Up",
-      "score": 0.09,
-      "flags": [
-        "catalogusprijs_afwijkend",
-        "bpm_te_laag"
-      ],
-      "catalog_price": 1189240
-    },
-    {
       "kenteken_norm": "Z825HG",
       "brand": "Ford",
       "model": "Kuga",
@@ -7495,16 +7462,6 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 257984
-    },
-    {
-      "kenteken_norm": "GJK58X",
-      "brand": "Mercedes-Benz",
-      "model": "Eqv",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 5299800
     },
     {
       "kenteken_norm": "GKP06G",
@@ -19107,16 +19064,6 @@
       "catalog_price": 189250
     },
     {
-      "kenteken_norm": "JXK76D",
-      "brand": "Citroen",
-      "model": "C3",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 180196
-    },
-    {
       "kenteken_norm": "JXL20R",
       "brand": "Mg",
       "model": "Marvel",
@@ -24577,6 +24524,16 @@
       "catalog_price": 173581
     },
     {
+      "kenteken_norm": "KTZ37X",
+      "brand": "Ford",
+      "model": "Puma",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 194242
+    },
+    {
       "kenteken_norm": "KVB44N",
       "brand": "Renault",
       "model": "Clio",
@@ -24595,16 +24552,6 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 185706
-    },
-    {
-      "kenteken_norm": "KVB76N",
-      "brand": "Audi",
-      "model": "A1",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 212300
     },
     {
       "kenteken_norm": "KVF22G",
@@ -24805,6 +24752,106 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 198168
+    },
+    {
+      "kenteken_norm": "KVV61X",
+      "brand": "Volkswagen",
+      "model": "Caddy",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 194037
+    },
+    {
+      "kenteken_norm": "KVV68S",
+      "brand": "Toyota",
+      "model": "Corolla",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 193518
+    },
+    {
+      "kenteken_norm": "KVV87S",
+      "brand": "Peugeot",
+      "model": "208",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 188317
+    },
+    {
+      "kenteken_norm": "KVX43L",
+      "brand": "Renault",
+      "model": "Megane",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 207094
+    },
+    {
+      "kenteken_norm": "KVX65L",
+      "brand": "Peugeot",
+      "model": "2008",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 191466
+    },
+    {
+      "kenteken_norm": "KVZ08V",
+      "brand": "Peugeot",
+      "model": "208",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 182546
+    },
+    {
+      "kenteken_norm": "KVZ61T",
+      "brand": "Kia",
+      "model": "Proceed",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 188931
+    },
+    {
+      "kenteken_norm": "KVZ69P",
+      "brand": "Ford",
+      "model": "C-Max",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 187763
+    },
+    {
+      "kenteken_norm": "KVZ84G",
+      "brand": "Citroen",
+      "model": "C1",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 185395
+    },
+    {
+      "kenteken_norm": "KVZ98F",
+      "brand": "Volkswagen",
+      "model": "Caddy",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 185642
     },
     {
       "kenteken_norm": "KX462B",
@@ -27877,16 +27924,6 @@
       "catalog_price": 93070
     },
     {
-      "kenteken_norm": "XP840B",
-      "brand": "Volvo",
-      "model": "Xc60",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 619909
-    },
-    {
       "kenteken_norm": "XP906B",
       "brand": "Toyota",
       "model": "Yaris",
@@ -27995,16 +28032,6 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 70350
-    },
-    {
-      "kenteken_norm": "XX204R",
-      "brand": "Skoda",
-      "model": "Fabia",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 1809635
     },
     {
       "kenteken_norm": "XX800F",
@@ -28147,16 +28174,6 @@
       "catalog_price": 260687
     },
     {
-      "kenteken_norm": "Z234JD",
-      "brand": "Tesla",
-      "model": "Model X",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 1424170
-    },
-    {
       "kenteken_norm": "Z283DJ",
       "brand": "Opel",
       "model": "Karl",
@@ -28185,16 +28202,6 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 460361
-    },
-    {
-      "kenteken_norm": "Z407FH",
-      "brand": "Smart",
-      "model": "Fortwo",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 3375900
     },
     {
       "kenteken_norm": "Z425FP",
@@ -28235,16 +28242,6 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 263732
-    },
-    {
-      "kenteken_norm": "Z845HB",
-      "brand": "Volkswagen",
-      "model": "Id.3",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 4436328
     },
     {
       "kenteken_norm": "ZB179R",
@@ -28335,16 +28332,6 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 189335
-    },
-    {
-      "kenteken_norm": "ZF234V",
-      "brand": "Volvo",
-      "model": "Xc60",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 595674
     },
     {
       "kenteken_norm": "ZF629V",
