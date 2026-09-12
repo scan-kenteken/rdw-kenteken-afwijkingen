@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T11:04:23Z",
+  "generated_at": "2026-09-12T10:51:52Z",
   "threshold": 0.3,
   "count": 2822,
   "plates": [
@@ -24864,6 +24864,16 @@
       "catalog_price": 134242
     },
     {
+      "kenteken_norm": "KXD06H",
+      "brand": "Kia",
+      "model": "Sportage",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 256799
+    },
+    {
       "kenteken_norm": "KZ022K",
       "brand": "Hyundai",
       "model": "Ix35",
@@ -25382,16 +25392,6 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 208025
-    },
-    {
-      "kenteken_norm": "N294KJ",
-      "brand": "Audi",
-      "model": "Q3",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 540405
     },
     {
       "kenteken_norm": "N349ZS",
