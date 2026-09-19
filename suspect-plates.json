@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-12T10:51:52Z",
+  "generated_at": "2026-09-19T09:38:40Z",
   "threshold": 0.3,
-  "count": 2822,
+  "count": 2828,
   "plates": [
     {
       "kenteken_norm": "ZN796H",
@@ -38,6 +38,18 @@
         "cilinderinhoud_per_cilinder"
       ],
       "catalog_price": 122868
+    },
+    {
+      "kenteken_norm": "KXK67J",
+      "brand": "Man",
+      "model": "Tgs",
+      "score": 0.009,
+      "flags": [
+        "massa",
+        "cilinderinhoud",
+        "cilinderinhoud_per_cilinder"
+      ],
+      "catalog_price": 81749
     },
     {
       "kenteken_norm": "P317HB",
@@ -541,28 +553,6 @@
       "catalog_price": 205914
     },
     {
-      "kenteken_norm": "GF132N",
-      "brand": "Peugeot",
-      "model": "2008",
-      "score": 0.09,
-      "flags": [
-        "catalogusprijs_afwijkend",
-        "bpm_te_laag"
-      ],
-      "catalog_price": 1100235
-    },
-    {
-      "kenteken_norm": "GF503H",
-      "brand": "Peugeot",
-      "model": "2008",
-      "score": 0.09,
-      "flags": [
-        "catalogusprijs_afwijkend",
-        "bpm_te_laag"
-      ],
-      "catalog_price": 1100232
-    },
-    {
       "kenteken_norm": "GHS42H",
       "brand": "Citroen",
       "model": "C5",
@@ -825,17 +815,6 @@
         "bpm_te_laag"
       ],
       "catalog_price": 181351
-    },
-    {
-      "kenteken_norm": "HGJ53X",
-      "brand": "Volkswagen",
-      "model": "Polo",
-      "score": 0.09,
-      "flags": [
-        "catalogusprijs_afwijkend",
-        "bpm_te_laag"
-      ],
-      "catalog_price": 1797193
     },
     {
       "kenteken_norm": "HGK24K",
@@ -2257,17 +2236,6 @@
       "catalog_price": 190212
     },
     {
-      "kenteken_norm": "HXG87R",
-      "brand": "Audi",
-      "model": "A3",
-      "score": 0.09,
-      "flags": [
-        "catalogusprijs_afwijkend",
-        "bpm_te_laag"
-      ],
-      "catalog_price": 2550161
-    },
-    {
       "kenteken_norm": "HXJ42J",
       "brand": "Peugeot",
       "model": "2008",
@@ -2499,17 +2467,6 @@
       "catalog_price": 175132
     },
     {
-      "kenteken_norm": "J993LS",
-      "brand": "Audi",
-      "model": "A1",
-      "score": 0.09,
-      "flags": [
-        "catalogusprijs_afwijkend",
-        "bpm_te_laag"
-      ],
-      "catalog_price": 6410996
-    },
-    {
       "kenteken_norm": "JBB80Z",
       "brand": "Peugeot",
       "model": "2008",
@@ -2574,17 +2531,6 @@
         "bpm_te_laag"
       ],
       "catalog_price": 197336
-    },
-    {
-      "kenteken_norm": "JBS91F",
-      "brand": "Audi",
-      "model": "Q3",
-      "score": 0.09,
-      "flags": [
-        "catalogusprijs_afwijkend",
-        "bpm_te_laag"
-      ],
-      "catalog_price": 516609
     },
     {
       "kenteken_norm": "JBX18N",
@@ -2961,17 +2907,6 @@
       "catalog_price": 190352
     },
     {
-      "kenteken_norm": "JHJ92B",
-      "brand": "Audi",
-      "model": "Sq5",
-      "score": 0.09,
-      "flags": [
-        "catalogusprijs_afwijkend",
-        "bpm_te_laag"
-      ],
-      "catalog_price": 9820502
-    },
-    {
       "kenteken_norm": "JHP21N",
       "brand": "Peugeot",
       "model": "208",
@@ -3104,17 +3039,6 @@
       "catalog_price": 189787
     },
     {
-      "kenteken_norm": "JJX19D",
-      "brand": "Audi",
-      "model": "Q5",
-      "score": 0.09,
-      "flags": [
-        "catalogusprijs_afwijkend",
-        "bpm_te_laag"
-      ],
-      "catalog_price": 882738
-    },
-    {
       "kenteken_norm": "JJX96H",
       "brand": "Peugeot",
       "model": "208",
@@ -3190,17 +3114,6 @@
         "bpm_te_laag"
       ],
       "catalog_price": 172221
-    },
-    {
-      "kenteken_norm": "JKV79K",
-      "brand": "Audi",
-      "model": "Q8",
-      "score": 0.09,
-      "flags": [
-        "catalogusprijs_afwijkend",
-        "bpm_te_laag"
-      ],
-      "catalog_price": 1209003
     },
     {
       "kenteken_norm": "JLB96R",
@@ -3520,17 +3433,6 @@
         "bpm_te_laag"
       ],
       "catalog_price": 171972
-    },
-    {
-      "kenteken_norm": "JRH05K",
-      "brand": "Peugeot",
-      "model": "2008",
-      "score": 0.09,
-      "flags": [
-        "catalogusprijs_afwijkend",
-        "bpm_te_laag"
-      ],
-      "catalog_price": 2391270
     },
     {
       "kenteken_norm": "JRJ30H",
@@ -5841,6 +5743,17 @@
         "bpm_te_laag"
       ],
       "catalog_price": 1660702
+    },
+    {
+      "kenteken_norm": "KXD66Z",
+      "brand": "Audi",
+      "model": "A4",
+      "score": 0.09,
+      "flags": [
+        "catalogusprijs_afwijkend",
+        "bpm_te_laag"
+      ],
+      "catalog_price": 546857
     },
     {
       "kenteken_norm": "L021VG",
@@ -9292,16 +9205,6 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 181563
-    },
-    {
-      "kenteken_norm": "HKL90X",
-      "brand": "Audi",
-      "model": "Q5",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 698823
     },
     {
       "kenteken_norm": "HKN84D",
@@ -14314,16 +14217,6 @@
       "catalog_price": 174730
     },
     {
-      "kenteken_norm": "J860GP",
-      "brand": "Mercedes-Benz",
-      "model": "E-Klasse",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 620558
-    },
-    {
       "kenteken_norm": "J877KR",
       "brand": "Mazda",
       "model": "Cx-3",
@@ -14864,16 +14757,6 @@
       "catalog_price": 231766
     },
     {
-      "kenteken_norm": "JDP02P",
-      "brand": "Audi",
-      "model": "Q4",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 602001
-    },
-    {
       "kenteken_norm": "JDP58L",
       "brand": "Peugeot",
       "model": "2008",
@@ -15092,16 +14975,6 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 180645
-    },
-    {
-      "kenteken_norm": "JFF31X",
-      "brand": "Volkswagen",
-      "model": "Passat",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 3655701
     },
     {
       "kenteken_norm": "JFF69G",
@@ -20004,16 +19877,6 @@
       "catalog_price": 197554
     },
     {
-      "kenteken_norm": "K630VJ",
-      "brand": "Knaus",
-      "model": "R11",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 502003
-    },
-    {
       "kenteken_norm": "K639BK",
       "brand": "Ford",
       "model": "Kuga",
@@ -20102,16 +19965,6 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 195274
-    },
-    {
-      "kenteken_norm": "K945SH",
-      "brand": "Audi",
-      "model": "A4",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 520568
     },
     {
       "kenteken_norm": "K969NV",
@@ -23504,16 +23357,6 @@
       "catalog_price": 91510
     },
     {
-      "kenteken_norm": "KRB30G",
-      "brand": "Citroen",
-      "model": "C3",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 180849
-    },
-    {
       "kenteken_norm": "KRB43G",
       "brand": "Mitsubishi",
       "model": "Space Star",
@@ -24604,6 +24447,16 @@
       "catalog_price": 188787
     },
     {
+      "kenteken_norm": "KVH92J",
+      "brand": "Dacia",
+      "model": "Sandero",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 176447
+    },
+    {
       "kenteken_norm": "KVJ80H",
       "brand": "Dacia",
       "model": "Duster",
@@ -24874,6 +24727,216 @@
       "catalog_price": 256799
     },
     {
+      "kenteken_norm": "KXF55T",
+      "brand": "Ford",
+      "model": "Focus",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 190867
+    },
+    {
+      "kenteken_norm": "KXF97D",
+      "brand": "Ford",
+      "model": "Focus",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 185369
+    },
+    {
+      "kenteken_norm": "KXG54L",
+      "brand": "Peugeot",
+      "model": "108",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 174728
+    },
+    {
+      "kenteken_norm": "KXG68D",
+      "brand": "Audi",
+      "model": "A1",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 186915
+    },
+    {
+      "kenteken_norm": "KXG99K",
+      "brand": "Kia",
+      "model": "Picanto",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 140100
+    },
+    {
+      "kenteken_norm": "KXJ28S",
+      "brand": "Volkswagen",
+      "model": "Polo",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 182622
+    },
+    {
+      "kenteken_norm": "KXJ75R",
+      "brand": "Volkswagen",
+      "model": "Golf",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 211280
+    },
+    {
+      "kenteken_norm": "KXJ87H",
+      "brand": "Mazda",
+      "model": "Mazda3",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 192021
+    },
+    {
+      "kenteken_norm": "KXJ97T",
+      "brand": "Nissan",
+      "model": "Qashqai",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 197873
+    },
+    {
+      "kenteken_norm": "KXL47V",
+      "brand": "Renault",
+      "model": "Megane",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 146466
+    },
+    {
+      "kenteken_norm": "KXL48V",
+      "brand": "Renault",
+      "model": "Megane",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 146466
+    },
+    {
+      "kenteken_norm": "KXL73X",
+      "brand": "Volkswagen",
+      "model": "T-Cross",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 181026
+    },
+    {
+      "kenteken_norm": "KXL93G",
+      "brand": "Hyundai",
+      "model": "I10",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 139026
+    },
+    {
+      "kenteken_norm": "KXP15K",
+      "brand": "Volkswagen",
+      "model": "Polo",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 186130
+    },
+    {
+      "kenteken_norm": "KXP25L",
+      "brand": "Mitsubishi",
+      "model": "Space Star",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 172525
+    },
+    {
+      "kenteken_norm": "KXP51Z",
+      "brand": "Seat",
+      "model": "Leon",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 187302
+    },
+    {
+      "kenteken_norm": "KXR93B",
+      "brand": "Citroen",
+      "model": "C3",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 181720
+    },
+    {
+      "kenteken_norm": "KXS08G",
+      "brand": "Citroen",
+      "model": "C1",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 175077
+    },
+    {
+      "kenteken_norm": "KXS55F",
+      "brand": "Peugeot",
+      "model": "Rifter",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 192923
+    },
+    {
+      "kenteken_norm": "KXS77G",
+      "brand": "Nissan",
+      "model": "Micra",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 190002
+    },
+    {
+      "kenteken_norm": "KXS98B",
+      "brand": "Nissan",
+      "model": "Micra",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 178208
+    },
+    {
       "kenteken_norm": "KZ022K",
       "brand": "Hyundai",
       "model": "Ix35",
@@ -25022,16 +25085,6 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 198839
-    },
-    {
-      "kenteken_norm": "L356JT",
-      "brand": "Mercedes-Benz",
-      "model": "Amg",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 882100
     },
     {
       "kenteken_norm": "L381KF",
