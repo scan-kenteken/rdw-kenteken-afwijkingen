@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T09:38:40Z",
+  "generated_at": "2026-09-22T11:05:12Z",
   "threshold": 0.3,
   "count": 2828,
   "plates": [
@@ -15487,16 +15487,6 @@
       "catalog_price": 179232
     },
     {
-      "kenteken_norm": "JGL04T",
-      "brand": "Audi",
-      "model": "A3",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 2356044
-    },
-    {
       "kenteken_norm": "JGL05V",
       "brand": "Renault",
       "model": "Captur",
@@ -24905,6 +24895,16 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 175077
+    },
+    {
+      "kenteken_norm": "KXS11X",
+      "brand": "Seat",
+      "model": "Leon",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 189273
     },
     {
       "kenteken_norm": "KXS55F",
