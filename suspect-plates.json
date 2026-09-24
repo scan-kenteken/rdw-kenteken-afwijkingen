@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-22T11:05:12Z",
+  "generated_at": "2026-09-24T12:02:56Z",
   "threshold": 0.3,
-  "count": 2828,
+  "count": 2834,
   "plates": [
     {
       "kenteken_norm": "ZN796H",
@@ -24707,6 +24707,16 @@
       "catalog_price": 134242
     },
     {
+      "kenteken_norm": "KXB36V",
+      "brand": "Hyundai",
+      "model": "I20",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 178745
+    },
+    {
       "kenteken_norm": "KXD06H",
       "brand": "Kia",
       "model": "Sportage",
@@ -24935,6 +24945,56 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 178208
+    },
+    {
+      "kenteken_norm": "KXX81N",
+      "brand": "Volkswagen",
+      "model": "Polo",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 185201
+    },
+    {
+      "kenteken_norm": "KXZ02F",
+      "brand": "Nissan",
+      "model": "Qashqai",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 194222
+    },
+    {
+      "kenteken_norm": "KXZ28K",
+      "brand": "Nissan",
+      "model": "Qashqai",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 191690
+    },
+    {
+      "kenteken_norm": "KXZ88J",
+      "brand": "Peugeot",
+      "model": "Rifter",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 191138
+    },
+    {
+      "kenteken_norm": "KXZ98J",
+      "brand": "Fiat",
+      "model": "500",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 180344
     },
     {
       "kenteken_norm": "KZ022K",
