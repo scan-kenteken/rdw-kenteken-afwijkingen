@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-24T12:02:56Z",
+  "generated_at": "2026-09-25T11:49:16Z",
   "threshold": 0.3,
-  "count": 2834,
+  "count": 2836,
   "plates": [
     {
       "kenteken_norm": "ZN796H",
@@ -6645,16 +6645,6 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 198062
-    },
-    {
-      "kenteken_norm": "5SHH67",
-      "brand": "Mitsubishi",
-      "model": "Asx",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 200888
     },
     {
       "kenteken_norm": "5TNV62",
@@ -13655,16 +13645,6 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 178917
-    },
-    {
-      "kenteken_norm": "HZT35H",
-      "brand": "Renault",
-      "model": "Captur",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 185573
     },
     {
       "kenteken_norm": "HZT52P",
@@ -23197,16 +23177,6 @@
       "catalog_price": 183741
     },
     {
-      "kenteken_norm": "KPS33N",
-      "brand": "Ford",
-      "model": "Kuga",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 229153
-    },
-    {
       "kenteken_norm": "KPS33V",
       "brand": "Renault",
       "model": "Kadjar",
@@ -25005,6 +24975,56 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 202856
+    },
+    {
+      "kenteken_norm": "KZB35F",
+      "brand": "Volkswagen",
+      "model": "Polo",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 180411
+    },
+    {
+      "kenteken_norm": "KZB36N",
+      "brand": "Audi",
+      "model": "A1",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 195264
+    },
+    {
+      "kenteken_norm": "KZB47H",
+      "brand": "Hyundai",
+      "model": "Kona",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 393205
+    },
+    {
+      "kenteken_norm": "KZB53N",
+      "brand": "Peugeot",
+      "model": "2008",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 190467
+    },
+    {
+      "kenteken_norm": "KZD18G",
+      "brand": "Citroen",
+      "model": "Berlingo",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 185591
     },
     {
       "kenteken_norm": "L090VV",
