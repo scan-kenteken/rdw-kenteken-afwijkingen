@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-25T11:49:16Z",
+  "generated_at": "2026-09-26T09:14:07Z",
   "threshold": 0.3,
-  "count": 2836,
+  "count": 2839,
   "plates": [
     {
       "kenteken_norm": "ZN796H",
@@ -5754,6 +5754,28 @@
         "bpm_te_laag"
       ],
       "catalog_price": 546857
+    },
+    {
+      "kenteken_norm": "KZF94H",
+      "brand": "Audi",
+      "model": "A6",
+      "score": 0.09,
+      "flags": [
+        "catalogusprijs_afwijkend",
+        "bpm_te_laag"
+      ],
+      "catalog_price": 6080070
+    },
+    {
+      "kenteken_norm": "KZJ49F",
+      "brand": "Mitsubishi",
+      "model": "Space Star",
+      "score": 0.09,
+      "flags": [
+        "catalogusprijs_afwijkend",
+        "bpm_te_laag"
+      ],
+      "catalog_price": 173430
     },
     {
       "kenteken_norm": "L021VG",
@@ -25025,6 +25047,16 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 185591
+    },
+    {
+      "kenteken_norm": "KZF76D",
+      "brand": "Seat",
+      "model": "Ibiza",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 173765
     },
     {
       "kenteken_norm": "L090VV",
