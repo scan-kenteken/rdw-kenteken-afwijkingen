@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-26T09:14:07Z",
+  "generated_at": "2026-10-03T12:07:30Z",
   "threshold": 0.3,
-  "count": 2839,
+  "count": 2841,
   "plates": [
     {
       "kenteken_norm": "ZN796H",
@@ -5611,17 +5611,6 @@
         "bpm_te_laag"
       ],
       "catalog_price": 288725
-    },
-    {
-      "kenteken_norm": "KSB99P",
-      "brand": "Volkswagen",
-      "model": "Tiguan",
-      "score": 0.09,
-      "flags": [
-        "catalogusprijs_afwijkend",
-        "bpm_te_laag"
-      ],
-      "catalog_price": 542199
     },
     {
       "kenteken_norm": "KSH83H",
@@ -13507,16 +13496,6 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 195397
-    },
-    {
-      "kenteken_norm": "HZK98T",
-      "brand": "Suzuki",
-      "model": "Vitara",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 195293
     },
     {
       "kenteken_norm": "HZL15K",
@@ -24729,6 +24708,16 @@
       "catalog_price": 190867
     },
     {
+      "kenteken_norm": "KXF62T",
+      "brand": "Seat",
+      "model": "Arona",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 188030
+    },
+    {
       "kenteken_norm": "KXF97D",
       "brand": "Ford",
       "model": "Focus",
@@ -25057,6 +25046,36 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 173765
+    },
+    {
+      "kenteken_norm": "KZJ13X",
+      "brand": "Volkswagen",
+      "model": "Polo",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 188458
+    },
+    {
+      "kenteken_norm": "KZJ15P",
+      "brand": "Mercedes-Benz",
+      "model": "V-Klasse",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 757517
+    },
+    {
+      "kenteken_norm": "KZJ40L",
+      "brand": "Suzuki",
+      "model": "Swift",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 180083
     },
     {
       "kenteken_norm": "L090VV",
