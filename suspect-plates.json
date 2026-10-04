@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-03T12:07:30Z",
+  "generated_at": "2026-10-04T10:26:59Z",
   "threshold": 0.3,
-  "count": 2841,
+  "count": 2856,
   "plates": [
     {
       "kenteken_norm": "ZN796H",
@@ -5765,6 +5765,17 @@
         "bpm_te_laag"
       ],
       "catalog_price": 173430
+    },
+    {
+      "kenteken_norm": "KZT22X",
+      "brand": "Mini",
+      "model": "Cooper",
+      "score": 0.09,
+      "flags": [
+        "catalogusprijs_afwijkend",
+        "bpm_te_laag"
+      ],
+      "catalog_price": 563210
     },
     {
       "kenteken_norm": "L021VG",
@@ -21518,6 +21529,16 @@
       "catalog_price": 146839
     },
     {
+      "kenteken_norm": "KGK32B",
+      "brand": "Dodge",
+      "model": "Viper",
+      "score": 0.1,
+      "flags": [
+        "cilinderinhoud"
+      ],
+      "catalog_price": 311261
+    },
+    {
       "kenteken_norm": "KGK46V",
       "brand": "Opel",
       "model": "Crossland",
@@ -23578,16 +23599,6 @@
       "catalog_price": 181539
     },
     {
-      "kenteken_norm": "KRP90T",
-      "brand": "Cadillac",
-      "model": "Lyriq",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 9904818
-    },
-    {
       "kenteken_norm": "KRR16D",
       "brand": "Toyota",
       "model": "Auris",
@@ -25038,16 +25049,6 @@
       "catalog_price": 185591
     },
     {
-      "kenteken_norm": "KZF76D",
-      "brand": "Seat",
-      "model": "Ibiza",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 173765
-    },
-    {
       "kenteken_norm": "KZJ13X",
       "brand": "Volkswagen",
       "model": "Polo",
@@ -25076,6 +25077,156 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 180083
+    },
+    {
+      "kenteken_norm": "KZJ84V",
+      "brand": "Seat",
+      "model": "Mii",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 171361
+    },
+    {
+      "kenteken_norm": "KZN98K",
+      "brand": "Opel",
+      "model": "Corsa",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 178494
+    },
+    {
+      "kenteken_norm": "KZT19L",
+      "brand": "Volkswagen",
+      "model": "Polo",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 183957
+    },
+    {
+      "kenteken_norm": "KZT25K",
+      "brand": "Ford",
+      "model": "Focus",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 185198
+    },
+    {
+      "kenteken_norm": "KZT25L",
+      "brand": "Volkswagen",
+      "model": "Polo",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 182228
+    },
+    {
+      "kenteken_norm": "KZT47N",
+      "brand": "Volkswagen",
+      "model": "Polo",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 193043
+    },
+    {
+      "kenteken_norm": "KZT66S",
+      "brand": "Opel",
+      "model": "Crossland",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 187686
+    },
+    {
+      "kenteken_norm": "KZT86K",
+      "brand": "Ford",
+      "model": "Transit",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 186505
+    },
+    {
+      "kenteken_norm": "KZV28J",
+      "brand": "Volkswagen",
+      "model": "Golf",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 213635
+    },
+    {
+      "kenteken_norm": "KZV39J",
+      "brand": "Renault",
+      "model": "Kadjar",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 190704
+    },
+    {
+      "kenteken_norm": "KZV51J",
+      "brand": "Renault",
+      "model": "Megane",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 151245
+    },
+    {
+      "kenteken_norm": "KZV91H",
+      "brand": "Kia",
+      "model": "Rio",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 182143
+    },
+    {
+      "kenteken_norm": "KZX16V",
+      "brand": "Toyota",
+      "model": "Corolla",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 195622
+    },
+    {
+      "kenteken_norm": "KZX18H",
+      "brand": "Peugeot",
+      "model": "208",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 177752
+    },
+    {
+      "kenteken_norm": "KZX53T",
+      "brand": "Volkswagen",
+      "model": "Polo",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 144691
     },
     {
       "kenteken_norm": "L090VV",
