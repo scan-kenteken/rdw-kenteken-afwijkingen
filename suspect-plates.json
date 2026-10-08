@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-04T10:26:59Z",
+  "generated_at": "2026-10-08T12:42:50Z",
   "threshold": 0.3,
-  "count": 2856,
+  "count": 2859,
   "plates": [
     {
       "kenteken_norm": "ZN796H",
@@ -2322,17 +2322,6 @@
         "bpm_te_laag"
       ],
       "catalog_price": 207860
-    },
-    {
-      "kenteken_norm": "HZG76Z",
-      "brand": "Peugeot",
-      "model": "208",
-      "score": 0.09,
-      "flags": [
-        "catalogusprijs_afwijkend",
-        "bpm_te_laag"
-      ],
-      "catalog_price": 185165
     },
     {
       "kenteken_norm": "HZJ85P",
@@ -5908,6 +5897,39 @@
         "bpm_te_laag"
       ],
       "catalog_price": 183012
+    },
+    {
+      "kenteken_norm": "NBD38L",
+      "brand": "Byd",
+      "model": "Seal",
+      "score": 0.09,
+      "flags": [
+        "catalogusprijs_afwijkend",
+        "bpm_te_laag"
+      ],
+      "catalog_price": 3791886
+    },
+    {
+      "kenteken_norm": "NBD39L",
+      "brand": "Byd",
+      "model": "Seal",
+      "score": 0.09,
+      "flags": [
+        "catalogusprijs_afwijkend",
+        "bpm_te_laag"
+      ],
+      "catalog_price": 3791886
+    },
+    {
+      "kenteken_norm": "NBD40L",
+      "brand": "Byd",
+      "model": "Seal",
+      "score": 0.09,
+      "flags": [
+        "catalogusprijs_afwijkend",
+        "bpm_te_laag"
+      ],
+      "catalog_price": 3791886
     },
     {
       "kenteken_norm": "NR566V",
@@ -13739,16 +13761,6 @@
       "catalog_price": 189041
     },
     {
-      "kenteken_norm": "HZZ68D",
-      "brand": "Opel",
-      "model": "Corsa",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 219851
-    },
-    {
       "kenteken_norm": "J012FV",
       "brand": "Volkswagen",
       "model": "Caddy",
@@ -13947,16 +13959,6 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 194593
-    },
-    {
-      "kenteken_norm": "J391SF",
-      "brand": "Volvo",
-      "model": "V60",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 409924
     },
     {
       "kenteken_norm": "J419ZN",
@@ -14299,16 +14301,6 @@
       "catalog_price": 112070
     },
     {
-      "kenteken_norm": "JBB01F",
-      "brand": "Nissan",
-      "model": "Juke",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 222003
-    },
-    {
       "kenteken_norm": "JBB15B",
       "brand": "Dacia",
       "model": "Sandero",
@@ -14447,16 +14439,6 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 192732
-    },
-    {
-      "kenteken_norm": "JBP03V",
-      "brand": "Nissan",
-      "model": "Qashqai",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 208729
     },
     {
       "kenteken_norm": "JBP46V",
@@ -19389,16 +19371,6 @@
       "catalog_price": 201271
     },
     {
-      "kenteken_norm": "JZP66P",
-      "brand": "Toyota",
-      "model": "Rav4",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 277831
-    },
-    {
       "kenteken_norm": "JZP98D",
       "brand": "Opel",
       "model": "Crossland",
@@ -21527,16 +21499,6 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 146839
-    },
-    {
-      "kenteken_norm": "KGK32B",
-      "brand": "Dodge",
-      "model": "Viper",
-      "score": 0.1,
-      "flags": [
-        "cilinderinhoud"
-      ],
-      "catalog_price": 311261
     },
     {
       "kenteken_norm": "KGK46V",
@@ -25937,6 +25899,76 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 206941
+    },
+    {
+      "kenteken_norm": "NBB75V",
+      "brand": "Dacia",
+      "model": "Dokker",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 175833
+    },
+    {
+      "kenteken_norm": "NBD52G",
+      "brand": "Volkswagen",
+      "model": "Polo",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 178318
+    },
+    {
+      "kenteken_norm": "NBD80G",
+      "brand": "Volkswagen",
+      "model": "Polo",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 181898
+    },
+    {
+      "kenteken_norm": "NBD82X",
+      "brand": "Toyota",
+      "model": "Aygo",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 175842
+    },
+    {
+      "kenteken_norm": "NBF06B",
+      "brand": "Ford",
+      "model": "Focus",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 189139
+    },
+    {
+      "kenteken_norm": "NBG81B",
+      "brand": "Seat",
+      "model": "Leon",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 192665
+    },
+    {
+      "kenteken_norm": "NBG99B",
+      "brand": "Seat",
+      "model": "Ibiza",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 175425
     },
     {
       "kenteken_norm": "NF713T",
