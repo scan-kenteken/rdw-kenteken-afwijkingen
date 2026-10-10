@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-09T10:26:44Z",
+  "generated_at": "2026-10-10T14:16:29Z",
   "threshold": 0.3,
-  "count": 2859,
+  "count": 2867,
   "plates": [
     {
       "kenteken_norm": "ZN796H",
@@ -5922,6 +5922,17 @@
     },
     {
       "kenteken_norm": "NBD40L",
+      "brand": "Byd",
+      "model": "Seal",
+      "score": 0.09,
+      "flags": [
+        "catalogusprijs_afwijkend",
+        "bpm_te_laag"
+      ],
+      "catalog_price": 3791886
+    },
+    {
+      "kenteken_norm": "NBH52P",
       "brand": "Byd",
       "model": "Seal",
       "score": 0.09,
@@ -25951,6 +25962,16 @@
       "catalog_price": 189139
     },
     {
+      "kenteken_norm": "NBG57T",
+      "brand": "Peugeot",
+      "model": "308",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 190018
+    },
+    {
       "kenteken_norm": "NBG81B",
       "brand": "Seat",
       "model": "Leon",
@@ -25961,6 +25982,16 @@
       "catalog_price": 192665
     },
     {
+      "kenteken_norm": "NBG95V",
+      "brand": "Volkswagen",
+      "model": "Polo",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 178218
+    },
+    {
       "kenteken_norm": "NBG99B",
       "brand": "Seat",
       "model": "Ibiza",
@@ -25969,6 +26000,56 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 175425
+    },
+    {
+      "kenteken_norm": "NBH46Z",
+      "brand": "Renault",
+      "model": "Megane",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 148156
+    },
+    {
+      "kenteken_norm": "NBH47Z",
+      "brand": "Renault",
+      "model": "Megane",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 148156
+    },
+    {
+      "kenteken_norm": "NBH92X",
+      "brand": "Seat",
+      "model": "Leon",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 198983
+    },
+    {
+      "kenteken_norm": "NBH96F",
+      "brand": "Ford",
+      "model": "Ecosport",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 191816
+    },
+    {
+      "kenteken_norm": "NBJ14B",
+      "brand": "Peugeot",
+      "model": "208",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 188317
     },
     {
       "kenteken_norm": "NF713T",
