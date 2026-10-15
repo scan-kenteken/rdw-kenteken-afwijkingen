@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-10T14:16:29Z",
+  "generated_at": "2026-10-14T15:44:19Z",
   "threshold": 0.3,
-  "count": 2867,
+  "count": 2884,
   "plates": [
     {
       "kenteken_norm": "ZN796H",
@@ -5941,6 +5941,28 @@
         "bpm_te_laag"
       ],
       "catalog_price": 3791886
+    },
+    {
+      "kenteken_norm": "NBJ73K",
+      "brand": "Volkswagen",
+      "model": "Tiguan",
+      "score": 0.09,
+      "flags": [
+        "catalogusprijs_afwijkend",
+        "bpm_te_laag"
+      ],
+      "catalog_price": 599074
+    },
+    {
+      "kenteken_norm": "NBK51T",
+      "brand": "Dacia",
+      "model": "Sandero",
+      "score": 0.09,
+      "flags": [
+        "catalogusprijs_afwijkend",
+        "bpm_te_laag"
+      ],
+      "catalog_price": 7621290
     },
     {
       "kenteken_norm": "NR566V",
@@ -24282,6 +24304,16 @@
       "catalog_price": 505809
     },
     {
+      "kenteken_norm": "KTV95D",
+      "brand": "Citroen",
+      "model": "C3",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 183367
+    },
+    {
       "kenteken_norm": "KTX44V",
       "brand": "Volkswagen",
       "model": "T-Roc",
@@ -26042,6 +26074,16 @@
       "catalog_price": 191816
     },
     {
+      "kenteken_norm": "NBJ05X",
+      "brand": "Peugeot",
+      "model": "208",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 189918
+    },
+    {
       "kenteken_norm": "NBJ14B",
       "brand": "Peugeot",
       "model": "208",
@@ -26050,6 +26092,136 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 188317
+    },
+    {
+      "kenteken_norm": "NBJ68X",
+      "brand": "Opel",
+      "model": "Zafira",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 196995
+    },
+    {
+      "kenteken_norm": "NBK08S",
+      "brand": "Ford",
+      "model": "Fiesta",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 176810
+    },
+    {
+      "kenteken_norm": "NBK11B",
+      "brand": "Peugeot",
+      "model": "2008",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 191466
+    },
+    {
+      "kenteken_norm": "NBK13B",
+      "brand": "Ford",
+      "model": "Puma",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 190198
+    },
+    {
+      "kenteken_norm": "NBK16S",
+      "brand": "Renault",
+      "model": "Megane",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 148156
+    },
+    {
+      "kenteken_norm": "NBK46R",
+      "brand": "Volkswagen",
+      "model": "Polo",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 190757
+    },
+    {
+      "kenteken_norm": "NBK56S",
+      "brand": "Renault",
+      "model": "Megane",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 145360
+    },
+    {
+      "kenteken_norm": "NBK61T",
+      "brand": "Mitsubishi",
+      "model": "Asx",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 181600
+    },
+    {
+      "kenteken_norm": "NBL04J",
+      "brand": "Ford",
+      "model": "Fiesta",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 188183
+    },
+    {
+      "kenteken_norm": "NBL59G",
+      "brand": "Dacia",
+      "model": "Sandero",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 178198
+    },
+    {
+      "kenteken_norm": "NBL66J",
+      "brand": "Suzuki",
+      "model": "Sx4",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 1398511
+    },
+    {
+      "kenteken_norm": "NBL92B",
+      "brand": "Suzuki",
+      "model": "Vitara",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 181336
+    },
+    {
+      "kenteken_norm": "NBN34L",
+      "brand": "Seat",
+      "model": "Leon",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 200337
     },
     {
       "kenteken_norm": "NF713T",
