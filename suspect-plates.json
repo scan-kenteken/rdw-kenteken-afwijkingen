@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-14T15:44:19Z",
+  "generated_at": "2026-10-17T12:27:57Z",
   "threshold": 0.3,
-  "count": 2884,
+  "count": 2889,
   "plates": [
     {
       "kenteken_norm": "ZN796H",
@@ -7792,16 +7792,6 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 277594
-    },
-    {
-      "kenteken_norm": "H677SN",
-      "brand": "Volkswagen",
-      "model": "Crafter",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 4237880
     },
     {
       "kenteken_norm": "H684FZ",
@@ -16152,16 +16142,6 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 192640
-    },
-    {
-      "kenteken_norm": "JJS67L",
-      "brand": "Volkswagen",
-      "model": "Golf",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 214307
     },
     {
       "kenteken_norm": "JJT40G",
@@ -26222,6 +26202,76 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 200337
+    },
+    {
+      "kenteken_norm": "NBP52H",
+      "brand": "Opel",
+      "model": "Adam",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 178697
+    },
+    {
+      "kenteken_norm": "NBR16R",
+      "brand": "Opel",
+      "model": "Corsa",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 175179
+    },
+    {
+      "kenteken_norm": "NBR27R",
+      "brand": "Peugeot",
+      "model": "108",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 173889
+    },
+    {
+      "kenteken_norm": "NBR69K",
+      "brand": "Skoda",
+      "model": "Octavia",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 182345
+    },
+    {
+      "kenteken_norm": "NBS07J",
+      "brand": "Seat",
+      "model": "Arona",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 187329
+    },
+    {
+      "kenteken_norm": "NBS73H",
+      "brand": "Audi",
+      "model": "A3",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 211463
+    },
+    {
+      "kenteken_norm": "NBS93H",
+      "brand": "Ford",
+      "model": "Fiesta",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 179943
     },
     {
       "kenteken_norm": "NF713T",
