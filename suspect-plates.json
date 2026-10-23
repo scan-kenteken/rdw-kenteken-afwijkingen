@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-17T12:27:57Z",
+  "generated_at": "2026-10-22T14:44:08Z",
   "threshold": 0.3,
-  "count": 2889,
+  "count": 2897,
   "plates": [
     {
       "kenteken_norm": "ZN796H",
@@ -5943,17 +5943,6 @@
       "catalog_price": 3791886
     },
     {
-      "kenteken_norm": "NBJ73K",
-      "brand": "Volkswagen",
-      "model": "Tiguan",
-      "score": 0.09,
-      "flags": [
-        "catalogusprijs_afwijkend",
-        "bpm_te_laag"
-      ],
-      "catalog_price": 599074
-    },
-    {
       "kenteken_norm": "NBK51T",
       "brand": "Dacia",
       "model": "Sandero",
@@ -5963,6 +5952,28 @@
         "bpm_te_laag"
       ],
       "catalog_price": 7621290
+    },
+    {
+      "kenteken_norm": "NBV22H",
+      "brand": "Seat",
+      "model": "Ibiza",
+      "score": 0.09,
+      "flags": [
+        "catalogusprijs_afwijkend",
+        "bpm_te_laag"
+      ],
+      "catalog_price": 190886
+    },
+    {
+      "kenteken_norm": "NBX14T",
+      "brand": "Byd",
+      "model": "Seal",
+      "score": 0.09,
+      "flags": [
+        "catalogusprijs_afwijkend",
+        "bpm_te_laag"
+      ],
+      "catalog_price": 3791886
     },
     {
       "kenteken_norm": "NR566V",
@@ -21714,16 +21725,6 @@
       "catalog_price": 166178
     },
     {
-      "kenteken_norm": "KHB06D",
-      "brand": "Audi",
-      "model": "A1",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 198319
-    },
-    {
       "kenteken_norm": "KHF13Z",
       "brand": "Mazda",
       "model": "Mazda3",
@@ -24944,16 +24945,6 @@
       "catalog_price": 194222
     },
     {
-      "kenteken_norm": "KXZ28K",
-      "brand": "Nissan",
-      "model": "Qashqai",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 191690
-    },
-    {
       "kenteken_norm": "KXZ88J",
       "brand": "Peugeot",
       "model": "Rifter",
@@ -26274,6 +26265,106 @@
       "catalog_price": 179943
     },
     {
+      "kenteken_norm": "NBV71S",
+      "brand": "Suzuki",
+      "model": "Swift",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 188432
+    },
+    {
+      "kenteken_norm": "NBX35J",
+      "brand": "Jeep",
+      "model": "Renegade",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 190074
+    },
+    {
+      "kenteken_norm": "NBX37P",
+      "brand": "Volkswagen",
+      "model": "Polo",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 189961
+    },
+    {
+      "kenteken_norm": "NBX76J",
+      "brand": "Opel",
+      "model": "Corsa",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 174037
+    },
+    {
+      "kenteken_norm": "NBX79F",
+      "brand": "Seat",
+      "model": "Leon",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 195795
+    },
+    {
+      "kenteken_norm": "NBX85J",
+      "brand": "Volkswagen",
+      "model": "Polo",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 182863
+    },
+    {
+      "kenteken_norm": "NBX88P",
+      "brand": "Renault",
+      "model": "Clio",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 177887
+    },
+    {
+      "kenteken_norm": "NBZ34B",
+      "brand": "Renault",
+      "model": "Clio",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 176854
+    },
+    {
+      "kenteken_norm": "NDB75D",
+      "brand": "Kia",
+      "model": "Rio",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 180169
+    },
+    {
+      "kenteken_norm": "NDB76D",
+      "brand": "Ford",
+      "model": "Kuga",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 286210
+    },
+    {
       "kenteken_norm": "NF713T",
       "brand": "Toyota",
       "model": "Aygo",
@@ -26472,16 +26563,6 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 198004
-    },
-    {
-      "kenteken_norm": "P324LD",
-      "brand": "Mercedes-Benz",
-      "model": "Slk",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 512243
     },
     {
       "kenteken_norm": "P353ZX",
