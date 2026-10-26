@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-22T14:44:08Z",
+  "generated_at": "2026-10-25T15:22:29Z",
   "threshold": 0.3,
-  "count": 2897,
+  "count": 2919,
   "plates": [
     {
       "kenteken_norm": "ZN796H",
@@ -5976,6 +5976,17 @@
       "catalog_price": 3791886
     },
     {
+      "kenteken_norm": "NDF21Z",
+      "brand": "Byd",
+      "model": "Seal",
+      "score": 0.09,
+      "flags": [
+        "catalogusprijs_afwijkend",
+        "bpm_te_laag"
+      ],
+      "catalog_price": 3791886
+    },
+    {
       "kenteken_norm": "NR566V",
       "brand": "Fiat",
       "model": "500",
@@ -7633,16 +7644,6 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 189863
-    },
-    {
-      "kenteken_norm": "H198KN",
-      "brand": "Opel",
-      "model": "Grandland",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 198087
     },
     {
       "kenteken_norm": "H255HT",
@@ -26345,6 +26346,26 @@
       "catalog_price": 176854
     },
     {
+      "kenteken_norm": "NDB41Z",
+      "brand": "Mini",
+      "model": "Clubman",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 536985
+    },
+    {
+      "kenteken_norm": "NDB67V",
+      "brand": "Volkswagen",
+      "model": "Polo",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 191808
+    },
+    {
       "kenteken_norm": "NDB75D",
       "brand": "Kia",
       "model": "Rio",
@@ -26355,14 +26376,214 @@
       "catalog_price": 180169
     },
     {
-      "kenteken_norm": "NDB76D",
-      "brand": "Ford",
-      "model": "Kuga",
+      "kenteken_norm": "NDB78T",
+      "brand": "Citroen",
+      "model": "C3",
       "score": 0.1,
       "flags": [
         "catalogusprijs_afwijkend"
       ],
-      "catalog_price": 286210
+      "catalog_price": 182766
+    },
+    {
+      "kenteken_norm": "NDB92X",
+      "brand": "Volkswagen",
+      "model": "Up",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 186318
+    },
+    {
+      "kenteken_norm": "NDB96T",
+      "brand": "Opel",
+      "model": "Corsa",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 183658
+    },
+    {
+      "kenteken_norm": "NDB98V",
+      "brand": "Volkswagen",
+      "model": "Polo",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 191120
+    },
+    {
+      "kenteken_norm": "NDD12Z",
+      "brand": "Seat",
+      "model": "Leon",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 190980
+    },
+    {
+      "kenteken_norm": "NDD58Z",
+      "brand": "Ford",
+      "model": "Focus",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 190319
+    },
+    {
+      "kenteken_norm": "NDD76R",
+      "brand": "Audi",
+      "model": "A1",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 186713
+    },
+    {
+      "kenteken_norm": "NDD91X",
+      "brand": "Toyota",
+      "model": "Aygo",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 173033
+    },
+    {
+      "kenteken_norm": "NDD99P",
+      "brand": "Ford",
+      "model": "Focus",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 187239
+    },
+    {
+      "kenteken_norm": "NDF40Z",
+      "brand": "Volkswagen",
+      "model": "T-Roc",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 196497
+    },
+    {
+      "kenteken_norm": "NDG29F",
+      "brand": "Ford",
+      "model": "Focus",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 188637
+    },
+    {
+      "kenteken_norm": "NDG67D",
+      "brand": "Nissan",
+      "model": "Qashqai",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 192722
+    },
+    {
+      "kenteken_norm": "NDG88R",
+      "brand": "Seat",
+      "model": "Ibiza",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 182033
+    },
+    {
+      "kenteken_norm": "NDH64Z",
+      "brand": "Renault",
+      "model": "Captur",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 130294
+    },
+    {
+      "kenteken_norm": "NDH67Z",
+      "brand": "Opel",
+      "model": "Mokka",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 186897
+    },
+    {
+      "kenteken_norm": "NDK29G",
+      "brand": "Volkswagen",
+      "model": "Polo",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 146434
+    },
+    {
+      "kenteken_norm": "NDK48J",
+      "brand": "Hyundai",
+      "model": "Ioniq",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 199770
+    },
+    {
+      "kenteken_norm": "NDL04J",
+      "brand": "Opel",
+      "model": "Crossland",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 185353
+    },
+    {
+      "kenteken_norm": "NDL40J",
+      "brand": "Volkswagen",
+      "model": "Up",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 184518
+    },
+    {
+      "kenteken_norm": "NDL52J",
+      "brand": "Renault",
+      "model": "Megane",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 145871
+    },
+    {
+      "kenteken_norm": "NDL53J",
+      "brand": "Renault",
+      "model": "Megane",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 145871
     },
     {
       "kenteken_norm": "NF713T",
