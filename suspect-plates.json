@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-25T15:22:29Z",
+  "generated_at": "2026-10-31T14:16:45Z",
   "threshold": 0.3,
-  "count": 2919,
+  "count": 2943,
   "plates": [
     {
       "kenteken_norm": "ZN796H",
@@ -50,6 +50,18 @@
         "cilinderinhoud_per_cilinder"
       ],
       "catalog_price": 81749
+    },
+    {
+      "kenteken_norm": "N921NT",
+      "brand": "Krismar",
+      "model": "Kr-Actros-Motorhome",
+      "score": 0.009,
+      "flags": [
+        "massa",
+        "cilinderinhoud",
+        "cilinderinhoud_per_cilinder"
+      ],
+      "catalog_price": 226221
     },
     {
       "kenteken_norm": "P317HB",
@@ -5448,17 +5460,6 @@
       "catalog_price": 183304
     },
     {
-      "kenteken_norm": "KPP09B",
-      "brand": "Audi",
-      "model": "Q5",
-      "score": 0.09,
-      "flags": [
-        "catalogusprijs_afwijkend",
-        "bpm_te_laag"
-      ],
-      "catalog_price": 697405
-    },
-    {
       "kenteken_norm": "KPP88P",
       "brand": "Ford",
       "model": "Fiesta",
@@ -5985,6 +5986,17 @@
         "bpm_te_laag"
       ],
       "catalog_price": 3791886
+    },
+    {
+      "kenteken_norm": "NDT08F",
+      "brand": "Jeep",
+      "model": "Compass",
+      "score": 0.09,
+      "flags": [
+        "catalogusprijs_afwijkend",
+        "bpm_te_laag"
+      ],
+      "catalog_price": 4467565
     },
     {
       "kenteken_norm": "NR566V",
@@ -23546,6 +23558,16 @@
       "catalog_price": 1215049
     },
     {
+      "kenteken_norm": "KRN32S",
+      "brand": "Opel",
+      "model": "Grandland",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 190779
+    },
+    {
       "kenteken_norm": "KRN82G",
       "brand": "Toyota",
       "model": "Aygo",
@@ -23914,6 +23936,16 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 205320
+    },
+    {
+      "kenteken_norm": "KSV43S",
+      "brand": "Citroen",
+      "model": "C3",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 182772
     },
     {
       "kenteken_norm": "KSV67P",
@@ -26346,6 +26378,16 @@
       "catalog_price": 176854
     },
     {
+      "kenteken_norm": "NDB16S",
+      "brand": "Opel",
+      "model": "Mokka",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 192015
+    },
+    {
       "kenteken_norm": "NDB41Z",
       "brand": "Mini",
       "model": "Clubman",
@@ -26466,6 +26508,16 @@
       "catalog_price": 187239
     },
     {
+      "kenteken_norm": "NDF34B",
+      "brand": "Fiat",
+      "model": "500",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 176119
+    },
+    {
       "kenteken_norm": "NDF40Z",
       "brand": "Volkswagen",
       "model": "T-Roc",
@@ -26526,6 +26578,16 @@
       "catalog_price": 186897
     },
     {
+      "kenteken_norm": "NDJ73D",
+      "brand": "Ford",
+      "model": "Fiesta",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 180082
+    },
+    {
       "kenteken_norm": "NDK29G",
       "brand": "Volkswagen",
       "model": "Polo",
@@ -26556,6 +26618,16 @@
       "catalog_price": 185353
     },
     {
+      "kenteken_norm": "NDL22X",
+      "brand": "Mini",
+      "model": "One",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 188502
+    },
+    {
       "kenteken_norm": "NDL40J",
       "brand": "Volkswagen",
       "model": "Up",
@@ -26584,6 +26656,176 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 145871
+    },
+    {
+      "kenteken_norm": "NDN41T",
+      "brand": "Toyota",
+      "model": "Aygo",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 176291
+    },
+    {
+      "kenteken_norm": "NDP46K",
+      "brand": "Mitsubishi",
+      "model": "Space Star",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 173920
+    },
+    {
+      "kenteken_norm": "NDR28K",
+      "brand": "Ford",
+      "model": "Fiesta",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 189048
+    },
+    {
+      "kenteken_norm": "NDR40K",
+      "brand": "Ford",
+      "model": "Focus",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 188412
+    },
+    {
+      "kenteken_norm": "NDS19H",
+      "brand": "Mitsubishi",
+      "model": "Space Star",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 171682
+    },
+    {
+      "kenteken_norm": "NDS25H",
+      "brand": "Volkswagen",
+      "model": "Up",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 177304
+    },
+    {
+      "kenteken_norm": "NDS67H",
+      "brand": "Seat",
+      "model": "Leon",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 158820
+    },
+    {
+      "kenteken_norm": "NDS91G",
+      "brand": "Volkswagen",
+      "model": "Polo",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 191839
+    },
+    {
+      "kenteken_norm": "NDT30B",
+      "brand": "Peugeot",
+      "model": "2008",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 187617
+    },
+    {
+      "kenteken_norm": "NDT37R",
+      "brand": "Suzuki",
+      "model": "Ignis",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 175069
+    },
+    {
+      "kenteken_norm": "NDT64G",
+      "brand": "Volkswagen",
+      "model": "Golf",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 195767
+    },
+    {
+      "kenteken_norm": "NDT66P",
+      "brand": "Suzuki",
+      "model": "Ignis",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 174740
+    },
+    {
+      "kenteken_norm": "NDT72D",
+      "brand": "Fiat",
+      "model": "600",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 366246
+    },
+    {
+      "kenteken_norm": "NDT98P",
+      "brand": "Volkswagen",
+      "model": "Polo",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 178118
+    },
+    {
+      "kenteken_norm": "NDV88G",
+      "brand": "Citroen",
+      "model": "C1",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 174893
+    },
+    {
+      "kenteken_norm": "NDZ31F",
+      "brand": "Volkswagen",
+      "model": "Golf",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 205524
+    },
+    {
+      "kenteken_norm": "NDZ90D",
+      "brand": "Citroen",
+      "model": "C3",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 183122
     },
     {
       "kenteken_norm": "NF713T",
