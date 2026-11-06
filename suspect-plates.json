@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-31T14:16:45Z",
+  "generated_at": "2026-11-06T13:09:55Z",
   "threshold": 0.3,
-  "count": 2943,
+  "count": 2961,
   "plates": [
     {
       "kenteken_norm": "ZN796H",
@@ -5999,6 +5999,39 @@
       "catalog_price": 4467565
     },
     {
+      "kenteken_norm": "NFD36V",
+      "brand": "Bmw",
+      "model": "X1",
+      "score": 0.09,
+      "flags": [
+        "catalogusprijs_afwijkend",
+        "bpm_te_laag"
+      ],
+      "catalog_price": 4236955
+    },
+    {
+      "kenteken_norm": "NFF23V",
+      "brand": "Smart",
+      "model": "#5",
+      "score": 0.09,
+      "flags": [
+        "catalogusprijs_afwijkend",
+        "bpm_te_laag"
+      ],
+      "catalog_price": 623950
+    },
+    {
+      "kenteken_norm": "NFH34J",
+      "brand": "Peugeot",
+      "model": "3008",
+      "score": 0.09,
+      "flags": [
+        "catalogusprijs_afwijkend",
+        "bpm_te_laag"
+      ],
+      "catalog_price": 434384
+    },
+    {
       "kenteken_norm": "NR566V",
       "brand": "Fiat",
       "model": "500",
@@ -6252,17 +6285,6 @@
       "catalog_price": 103826
     },
     {
-      "kenteken_norm": "TT931N",
-      "brand": "Audi",
-      "model": "Q3",
-      "score": 0.09,
-      "flags": [
-        "catalogusprijs_afwijkend",
-        "bpm_te_laag"
-      ],
-      "catalog_price": 5291037
-    },
-    {
       "kenteken_norm": "X027PF",
       "brand": "Mercedes-Benz",
       "model": "Cla",
@@ -6437,17 +6459,6 @@
         "bpm_te_laag"
       ],
       "catalog_price": 187270
-    },
-    {
-      "kenteken_norm": "XL693K",
-      "brand": "Mercedes-Benz",
-      "model": "Cla",
-      "score": 0.09,
-      "flags": [
-        "catalogusprijs_afwijkend",
-        "bpm_te_laag"
-      ],
-      "catalog_price": 3539094
     },
     {
       "kenteken_norm": "XS512J",
@@ -6668,16 +6679,6 @@
       "catalog_price": 202045
     },
     {
-      "kenteken_norm": "08ZJB7",
-      "brand": "Mercedes-Benz",
-      "model": "Ml",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 1142746
-    },
-    {
       "kenteken_norm": "11RKB9",
       "brand": "Honda",
       "model": "Insight",
@@ -6816,6 +6817,16 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 88350
+    },
+    {
+      "kenteken_norm": "69THZB",
+      "brand": "Dodge",
+      "model": "Viper",
+      "score": 0.1,
+      "flags": [
+        "cilinderinhoud"
+      ],
+      "catalog_price": 153443
     },
     {
       "kenteken_norm": "73HZN9",
@@ -16336,16 +16347,6 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 172250
-    },
-    {
-      "kenteken_norm": "JKF93K",
-      "brand": "Volkswagen",
-      "model": "T-Roc",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 194009
     },
     {
       "kenteken_norm": "JKH10Z",
@@ -26638,16 +26639,6 @@
       "catalog_price": 184518
     },
     {
-      "kenteken_norm": "NDL52J",
-      "brand": "Renault",
-      "model": "Megane",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 145871
-    },
-    {
       "kenteken_norm": "NDL53J",
       "brand": "Renault",
       "model": "Megane",
@@ -26836,6 +26827,206 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 103597
+    },
+    {
+      "kenteken_norm": "NFB66L",
+      "brand": "Volkswagen",
+      "model": "Polo",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 184315
+    },
+    {
+      "kenteken_norm": "NFD76N",
+      "brand": "Honda",
+      "model": "Civic",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 184978
+    },
+    {
+      "kenteken_norm": "NFD91L",
+      "brand": "Volkswagen",
+      "model": "Up",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 170667
+    },
+    {
+      "kenteken_norm": "NFD98L",
+      "brand": "Skoda",
+      "model": "Octavia",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 193829
+    },
+    {
+      "kenteken_norm": "NFF09G",
+      "brand": "Geely",
+      "model": "Starray",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 339559
+    },
+    {
+      "kenteken_norm": "NFF63F",
+      "brand": "Opel",
+      "model": "Crossland",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 184003
+    },
+    {
+      "kenteken_norm": "NFF67B",
+      "brand": "Volkswagen",
+      "model": "Up",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 179650
+    },
+    {
+      "kenteken_norm": "NFG01H",
+      "brand": "Peugeot",
+      "model": "208",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 182510
+    },
+    {
+      "kenteken_norm": "NFG04R",
+      "brand": "Volkswagen",
+      "model": "Polo",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 183049
+    },
+    {
+      "kenteken_norm": "NFH17S",
+      "brand": "Volkswagen",
+      "model": "Polo",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 146093
+    },
+    {
+      "kenteken_norm": "NFH46D",
+      "brand": "Opel",
+      "model": "Karl",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 173344
+    },
+    {
+      "kenteken_norm": "NFH81S",
+      "brand": "Opel",
+      "model": "Grandland",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 193091
+    },
+    {
+      "kenteken_norm": "NFH89H",
+      "brand": "Volkswagen",
+      "model": "Golf",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 195252
+    },
+    {
+      "kenteken_norm": "NFJ16S",
+      "brand": "Volkswagen",
+      "model": "Golf",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 210957
+    },
+    {
+      "kenteken_norm": "NFJ93P",
+      "brand": "Volkswagen",
+      "model": "Polo",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 177568
+    },
+    {
+      "kenteken_norm": "NFK06J",
+      "brand": "Seat",
+      "model": "Leon",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 200388
+    },
+    {
+      "kenteken_norm": "NFK06K",
+      "brand": "Kia",
+      "model": "Soul",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 3539500
+    },
+    {
+      "kenteken_norm": "NFK09J",
+      "brand": "Seat",
+      "model": "Leon",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 186103
+    },
+    {
+      "kenteken_norm": "NFK25J",
+      "brand": "Seat",
+      "model": "Ibiza",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 185998
+    },
+    {
+      "kenteken_norm": "NFK52H",
+      "brand": "Ford",
+      "model": "Fiesta",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 180842
     },
     {
       "kenteken_norm": "NG388J",
@@ -29006,16 +29197,6 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 180461
-    },
-    {
-      "kenteken_norm": "XJ717K",
-      "brand": "Mercedes-Benz",
-      "model": "Cla",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 716563
     },
     {
       "kenteken_norm": "XJ944X",
