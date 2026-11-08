@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-06T13:09:55Z",
+  "generated_at": "2026-11-08T09:42:21Z",
   "threshold": 0.3,
-  "count": 2961,
+  "count": 2963,
   "plates": [
     {
       "kenteken_norm": "ZN796H",
@@ -6032,6 +6032,17 @@
       "catalog_price": 434384
     },
     {
+      "kenteken_norm": "NFN16R",
+      "brand": "Audi",
+      "model": "A6",
+      "score": 0.09,
+      "flags": [
+        "catalogusprijs_afwijkend",
+        "bpm_te_laag"
+      ],
+      "catalog_price": 971156
+    },
+    {
       "kenteken_norm": "NR566V",
       "brand": "Fiat",
       "model": "500",
@@ -10387,16 +10398,6 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 198002
-    },
-    {
-      "kenteken_norm": "HNL45G",
-      "brand": "Peugeot",
-      "model": "508",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 202329
     },
     {
       "kenteken_norm": "HNL62N",
@@ -16207,16 +16208,6 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 171582
-    },
-    {
-      "kenteken_norm": "JJV18F",
-      "brand": "Mazda",
-      "model": "Cx-5",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 218641
     },
     {
       "kenteken_norm": "JJV34F",
@@ -27029,6 +27020,46 @@
       "catalog_price": 180842
     },
     {
+      "kenteken_norm": "NFK56V",
+      "brand": "Mazda",
+      "model": "Mazda2",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 275771
+    },
+    {
+      "kenteken_norm": "NFL14G",
+      "brand": "Opel",
+      "model": "Corsa",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 179431
+    },
+    {
+      "kenteken_norm": "NFL26H",
+      "brand": "Suzuki",
+      "model": "Vitara",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 177835
+    },
+    {
+      "kenteken_norm": "NFL52S",
+      "brand": "Citroen",
+      "model": "C4",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 183031
+    },
+    {
       "kenteken_norm": "NG388J",
       "brand": "Renault",
       "model": "Clio",
@@ -27507,16 +27538,6 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 231786
-    },
-    {
-      "kenteken_norm": "R022TS",
-      "brand": "Volkswagen",
-      "model": "Golf",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 564258
     },
     {
       "kenteken_norm": "R054ZT",
