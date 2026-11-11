@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-08T09:42:21Z",
+  "generated_at": "2026-11-11T09:45:33Z",
   "threshold": 0.3,
-  "count": 2963,
+  "count": 2964,
   "plates": [
     {
       "kenteken_norm": "ZN796H",
@@ -6041,6 +6041,17 @@
         "bpm_te_laag"
       ],
       "catalog_price": 971156
+    },
+    {
+      "kenteken_norm": "NFP96L",
+      "brand": "Citroen",
+      "model": "E-C3",
+      "score": 0.09,
+      "flags": [
+        "catalogusprijs_afwijkend",
+        "bpm_te_laag"
+      ],
+      "catalog_price": 3052886
     },
     {
       "kenteken_norm": "NR566V",
@@ -24820,16 +24831,6 @@
       "catalog_price": 197873
     },
     {
-      "kenteken_norm": "KXL47V",
-      "brand": "Renault",
-      "model": "Megane",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 146466
-    },
-    {
       "kenteken_norm": "KXL48V",
       "brand": "Renault",
       "model": "Megane",
@@ -27058,6 +27059,16 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 183031
+    },
+    {
+      "kenteken_norm": "NFP17S",
+      "brand": "Volkswagen",
+      "model": "Golf",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 196360
     },
     {
       "kenteken_norm": "NG388J",
