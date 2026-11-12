@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-11T09:45:33Z",
+  "generated_at": "2026-11-12T11:23:27Z",
   "threshold": 0.3,
-  "count": 2964,
+  "count": 2963,
   "plates": [
     {
       "kenteken_norm": "ZN796H",
@@ -6285,17 +6285,6 @@
       "catalog_price": 192559
     },
     {
-      "kenteken_norm": "T914BK",
-      "brand": "Audi",
-      "model": "A1",
-      "score": 0.09,
-      "flags": [
-        "catalogusprijs_afwijkend",
-        "bpm_te_laag"
-      ],
-      "catalog_price": 1867230
-    },
-    {
       "kenteken_norm": "TT191Z",
       "brand": "Volkswagen",
       "model": "Up",
@@ -8059,16 +8048,6 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 201604
-    },
-    {
-      "kenteken_norm": "HBX60P",
-      "brand": "Volkswagen",
-      "model": "T-Roc",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 194039
     },
     {
       "kenteken_norm": "HD617K",
@@ -15509,16 +15488,6 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 145512
-    },
-    {
-      "kenteken_norm": "JGJ20J",
-      "brand": "Audi",
-      "model": "Q4",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 522885
     },
     {
       "kenteken_norm": "JGJ99R",
@@ -27069,6 +27038,26 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 196360
+    },
+    {
+      "kenteken_norm": "NFT19F",
+      "brand": "Kia",
+      "model": "Rio",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 189199
+    },
+    {
+      "kenteken_norm": "NFT69P",
+      "brand": "Audi",
+      "model": "A3",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 246882
     },
     {
       "kenteken_norm": "NG388J",
