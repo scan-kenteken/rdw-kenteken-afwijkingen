@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-12T11:23:27Z",
+  "generated_at": "2026-11-14T10:15:41Z",
   "threshold": 0.3,
-  "count": 2963,
+  "count": 2970,
   "plates": [
     {
       "kenteken_norm": "ZN796H",
@@ -9128,16 +9128,6 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 193019
-    },
-    {
-      "kenteken_norm": "HKF60K",
-      "brand": "Kia",
-      "model": "Sportage",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 192225
     },
     {
       "kenteken_norm": "HKF63T",
@@ -19960,16 +19950,6 @@
       "catalog_price": 191332
     },
     {
-      "kenteken_norm": "KBD56J",
-      "brand": "Kia",
-      "model": "Sportage",
-      "score": 0.1,
-      "flags": [
-        "catalogusprijs_afwijkend"
-      ],
-      "catalog_price": 192225
-    },
-    {
       "kenteken_norm": "KBD82K",
       "brand": "Seat",
       "model": "Leon",
@@ -27060,6 +27040,66 @@
       "catalog_price": 246882
     },
     {
+      "kenteken_norm": "NFV92N",
+      "brand": "Volkswagen",
+      "model": "Polo",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 182382
+    },
+    {
+      "kenteken_norm": "NFX26L",
+      "brand": "Seat",
+      "model": "Leon",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 187410
+    },
+    {
+      "kenteken_norm": "NFX31P",
+      "brand": "Ford",
+      "model": "Fiesta",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 1636943
+    },
+    {
+      "kenteken_norm": "NFX57L",
+      "brand": "Peugeot",
+      "model": "Rifter",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 192799
+    },
+    {
+      "kenteken_norm": "NFZ32T",
+      "brand": "Suzuki",
+      "model": "Vitara",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 185217
+    },
+    {
+      "kenteken_norm": "NFZ95P",
+      "brand": "Suzuki",
+      "model": "Sx4",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 183035
+    },
+    {
       "kenteken_norm": "NG388J",
       "brand": "Renault",
       "model": "Clio",
@@ -27068,6 +27108,36 @@
         "catalogusprijs_afwijkend"
       ],
       "catalog_price": 165769
+    },
+    {
+      "kenteken_norm": "NGB12K",
+      "brand": "Renault",
+      "model": "Clio",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 186392
+    },
+    {
+      "kenteken_norm": "NGB96H",
+      "brand": "Opel",
+      "model": "Astra",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 151536
+    },
+    {
+      "kenteken_norm": "NGB99H",
+      "brand": "Subaru",
+      "model": "Impreza",
+      "score": 0.1,
+      "flags": [
+        "catalogusprijs_afwijkend"
+      ],
+      "catalog_price": 183945
     },
     {
       "kenteken_norm": "NJ955K",
